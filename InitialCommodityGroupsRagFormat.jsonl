@@ -1,0 +1,4576 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "name": "Grapefruit",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440000",
+  "group_name": "Citrus Fruits",
+  "description": "Grapefruit is a large, round citrus fruit with a yellow-orange rind and juicy, acidic flesh that can range from white to pink to ruby red. Known for its tart to semi-sweet flavor and high vitamin C content."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "name": "Lemons",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440000",
+  "group_name": "Citrus Fruits",
+  "description": "Lemons are a bright yellow citrus fruit known for their sour taste and high vitamin C content. They are commonly used in cooking, baking, and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440003",
+  "name": "Limes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440000",
+  "group_name": "Citrus Fruits",
+  "description": "Limes are small, green citrus fruits with a tart and acidic flavor. They are often used in beverages, cooking, and as a garnish."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "name": "Mandarins (inc clementines & similar hybrids)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440000",
+  "group_name": "Citrus Fruits",
+  "description": "Mandarins are small, sweet citrus fruits that are easy to peel. They include varieties like clementines and tangerines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "name": "Oranges",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440000",
+  "group_name": "Citrus Fruits",
+  "description": "Oranges are round, orange-colored citrus fruits known for their sweet and tangy flavor. They are a rich source of vitamin C."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440006",
+  "name": "Pomelos",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440000",
+  "group_name": "Citrus Fruits",
+  "description": "Pomelos are the largest citrus fruit, with a thick rind and sweet, mild flavor. They are often eaten fresh or used in salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440007",
+  "name": "Other citrus fruits",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440000",
+  "group_name": "Citrus Fruits",
+  "description": "This category includes other varieties of citrus fruits not specifically listed, such as kumquats, yuzu, and bergamot."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440009",
+  "name": "Almonds including ground almonds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Almonds are a popular tree nut known for their crunchy texture and nutty flavor. They are often consumed raw, roasted, or ground into almond flour."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440010",
+  "name": "Apricot kernels",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Apricot kernels are the seeds found inside apricot pits. They have a bitter taste and are sometimes used in traditional medicine."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440011",
+  "name": "Brazil nuts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Brazil nuts are large, nutrient-rich nuts native to the Amazon rainforest. They are known for their high selenium content."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440012",
+  "name": "Cashew nuts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Cashew nuts are kidney-shaped nuts with a creamy texture and mild flavor. They are often used in cooking, baking, and as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440013",
+  "name": "Chestnuts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Chestnuts are starchy nuts with a sweet, nutty flavor. They are often roasted and used in both sweet and savory dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440014",
+  "name": "Coconut - fresh",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Fresh coconut is the white, fleshy part of the coconut fruit. It has a sweet, nutty flavor and is often eaten raw or used in cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440015",
+  "name": "Coconut - desiccated, dried, flour",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Desiccated coconut is dried and shredded coconut meat, often used in baking and cooking. Coconut flour is a gluten-free alternative to wheat flour."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440016",
+  "name": "Coconut juice, milk, cream or water",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Coconut water is the clear liquid inside young coconuts, while coconut milk and cream are made from the grated flesh of mature coconuts. They are used in beverages and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440017",
+  "name": "Coconut - other products (yoghurt etc.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "This category includes other coconut-based products such as coconut yogurt, which is a dairy-free alternative made from coconut milk."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440018",
+  "name": "Hazelnuts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Hazelnuts are small, round nuts with a rich, buttery flavor. They are commonly used in confectionery, baking, and as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440019",
+  "name": "Macadamia nuts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Macadamia nuts are creamy, buttery nuts native to Australia. They are often used in baking, cooking, and as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440020",
+  "name": "Pecans",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Pecans are rich, buttery nuts commonly used in desserts like pecan pie. They are also eaten raw or roasted as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440021",
+  "name": "Pine nuts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Pine nuts are small, elongated nuts with a delicate, buttery flavor. They are often used in pesto, salads, and baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440022",
+  "name": "Pistachios",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Pistachios are small, green nuts with a slightly sweet flavor. They are often eaten as a snack or used in baking and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440023",
+  "name": "Walnuts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Walnuts are wrinkled, brain-shaped nuts with a rich, earthy flavor. They are commonly used in baking, cooking, and as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440024",
+  "name": "Other tree nuts & mixed nuts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "This category includes other varieties of tree nuts not specifically listed, as well as mixed nuts, which are a combination of different nuts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440025",
+  "name": "Nut spreads and butters (except peanut)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440008",
+  "group_name": "Tree Nuts",
+  "description": "Nut spreads and butters are made from ground nuts, such as almond butter or cashew butter. They are a popular alternative to peanut butter."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440027",
+  "name": "Apples - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440026",
+  "group_name": "Pome Fruit",
+  "description": "Apples are a popular fruit with a crisp texture and sweet to tart flavor. They can be eaten fresh, dried, or used in cooking and baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440028",
+  "name": "Pears - fresh",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440026",
+  "group_name": "Pome Fruit",
+  "description": "Pears are sweet, juicy fruits with a soft, buttery texture. They are often eaten fresh or used in desserts and salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440029",
+  "name": "Quinces",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440026",
+  "group_name": "Pome Fruit",
+  "description": "Quinces are fragrant, golden-yellow fruits with a tart flavor. They are often used in jams, jellies, and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440030",
+  "name": "Medlars",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440026",
+  "group_name": "Pome Fruit",
+  "description": "Medlars are small, brown fruits with a unique flavor that develops after they are bletted (softened). They are often used in jams and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440031",
+  "name": "Loquats",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440026",
+  "group_name": "Pome Fruit",
+  "description": "Loquats are small, yellow-orange fruits with a sweet, tangy flavor. They are often eaten fresh or used in jams and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440032",
+  "name": "Other pome fruit",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440026",
+  "group_name": "Pome Fruit",
+  "description": "This category includes other varieties of pome fruits not specifically listed, such as Asian pears and crabapples."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440034",
+  "name": "Apricots - fresh",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440033",
+  "group_name": "Stone Fruit",
+  "description": "Apricots are small, orange fruits with a sweet, slightly tart flavor. They are often eaten fresh, dried, or used in cooking and baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440035",
+  "name": "Cherries - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440033",
+  "group_name": "Stone Fruit",
+  "description": "Cherries are small, round fruits with a sweet or tart flavor. They can be eaten fresh, dried, or used in desserts and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440036",
+  "name": "Peaches (& similar hybrids)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440033",
+  "group_name": "Stone Fruit",
+  "description": "Peaches are soft, juicy fruits with a sweet flavor and fuzzy skin. They are often eaten fresh, canned, or used in desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440037",
+  "name": "Plums - fresh",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440033",
+  "group_name": "Stone Fruit",
+  "description": "Plums are juicy fruits with a sweet to tart flavor and smooth skin. They are often eaten fresh, dried (as prunes), or used in cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440038",
+  "name": "Nectarines",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440033",
+  "group_name": "Stone Fruit",
+  "description": "Nectarines are smooth-skinned fruits similar to peaches, with a sweet and slightly tangy flavor. They are often eaten fresh or used in desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440039",
+  "name": "Other stone fruit",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440033",
+  "group_name": "Stone Fruit",
+  "description": "This category includes other varieties of stone fruits not specifically listed, such as pluots and apriums."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440041",
+  "name": "Table grapes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Table grapes are sweet, seedless grapes typically eaten fresh as a snack or used in fruit salads and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440042",
+  "name": "Wine grapes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Wine grapes are specifically cultivated for winemaking, with varieties chosen for their flavor, sugar content, and acidity."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440043",
+  "name": "Strawberries - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Strawberries are bright red, juicy berries with a sweet flavor. They are eaten fresh, dried, or used in desserts and jams."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440044",
+  "name": "Blackberries",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Blackberries are dark, juicy berries with a sweet-tart flavor. They are often eaten fresh, used in desserts, or made into jams."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440045",
+  "name": "Dewberries",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Dewberries are similar to blackberries but smaller and slightly sweeter. They are often used in jams, pies, and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440046",
+  "name": "Loganberries, boysenberries and other hybrids",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Loganberries and boysenberries are hybrid berries with a sweet-tart flavor. They are often used in jams, desserts, and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440047",
+  "name": "Raspberries",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Raspberries are delicate, sweet-tart berries that are often eaten fresh, used in desserts, or made into jams and sauces."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440048",
+  "name": "Other cane fruit",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "This category includes other varieties of cane fruits not specifically listed, such as tayberries and marionberries."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440049",
+  "name": "Blueberries - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Blueberries are small, sweet berries with a deep blue color. They are often eaten fresh, dried, or used in baking and smoothies."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440050",
+  "name": "Cranberries - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Cranberries are tart, red berries often used in sauces, juices, and baked goods. They are also dried and eaten as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440051",
+  "name": "Currants (black, red, white)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Currants are small, tart berries that come in black, red, and white varieties. They are often used in jams, jellies, and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440052",
+  "name": "Goji berries (wolfberry) - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Goji berries, also known as wolfberries, are small, red berries with a sweet-tart flavor. They are often consumed dried for their health benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440053",
+  "name": "Gooseberries",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Gooseberries are small, tart berries that come in green, red, or yellow varieties. They are often used in desserts, jams, and sauces."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440054",
+  "name": "Rosehips",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Rosehips are the fruit of the rose plant, known for their high vitamin C content. They are often used in teas, jams, and supplements."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440055",
+  "name": "Mulberries",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Mulberries are sweet, dark berries that grow on mulberry trees. They are often eaten fresh, dried, or used in desserts and jams."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440056",
+  "name": "Azarole (mediterranean medlar)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Azarole, also known as Mediterranean medlar, is a small fruit with a sweet-tart flavor. It is often used in jams and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440057",
+  "name": "Elderberries",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "Elderberries are small, dark berries with a tart flavor. They are often used in syrups, wines, and medicinal preparations."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440058",
+  "name": "Other small fruit & berries",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440040",
+  "group_name": "Berries and Small Fruit",
+  "description": "This category includes other small fruits and berries not specifically listed, such as lingonberries and huckleberries."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440060",
+  "name": "Vine fruits - currants",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Dried currants are small, tart berries often used in baking, cooking, and as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440061",
+  "name": "Vine fruits - raisins",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Raisins are dried grapes, known for their sweet flavor and chewy texture. They are often used in baking, cooking, and as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440062",
+  "name": "Vine fruits - sultanas",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Sultanas are a type of dried grape, similar to raisins but lighter in color and slightly sweeter. They are often used in baking and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440063",
+  "name": "Apricots - dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Dried apricots are sweet, chewy fruits that are often eaten as a snack or used in baking and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440064",
+  "name": "Dates - dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Dried dates are sweet, sticky fruits often eaten as a snack or used in baking and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440065",
+  "name": "Figs - dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Dried figs are sweet, chewy fruits often eaten as a snack or used in baking and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440066",
+  "name": "Papaya - dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Dried papaya is a sweet, chewy fruit often eaten as a snack or used in trail mixes and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440067",
+  "name": "Pears - dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Dried pears are sweet, chewy fruits often eaten as a snack or used in baking and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440068",
+  "name": "Pineapple - dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Dried pineapple is a sweet, tangy fruit often eaten as a snack or used in trail mixes and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440069",
+  "name": "Prunes - dried plums",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Prunes are dried plums, known for their sweet flavor and digestive benefits. They are often eaten as a snack or used in baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440070",
+  "name": "Tomatoes - dried (sundried, sunblush)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Dried tomatoes, such as sun-dried or sun-blushed tomatoes, are often used in Mediterranean cuisine for their intense flavor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440071",
+  "name": "Other dried or candied fruits and mixed dried fruits",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "This category includes other dried or candied fruits and mixed dried fruits, often used in baking, cooking, and as snacks."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440072",
+  "name": "Dried vegetables - various",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440059",
+  "group_name": "Dried Fruits and Vegetables",
+  "description": "Dried vegetables, such as dried carrots, onions, and peppers, are often used in soups, stews, and seasoning blends."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440074",
+  "name": "Carambola (star fruit)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440073",
+  "group_name": "Miscellaneous Fruit - Edible Peel",
+  "description": "Carambola, also known as star fruit, is a tropical fruit with a distinctive star shape when sliced. It has a sweet-tart flavor and is often eaten fresh or used in salads and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440075",
+  "name": "Dates - fresh",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440073",
+  "group_name": "Miscellaneous Fruit - Edible Peel",
+  "description": "Fresh dates are sweet, chewy fruits often eaten as a snack or used in desserts and baking. They are rich in natural sugars and nutrients."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440076",
+  "name": "Dragonfruit (pitahaya)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440073",
+  "group_name": "Miscellaneous Fruit - Edible Peel",
+  "description": "Dragonfruit, also known as pitahaya, is a vibrant tropical fruit with a mild, sweet flavor. It is often eaten fresh or used in smoothies and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440077",
+  "name": "Figs - fresh",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440073",
+  "group_name": "Miscellaneous Fruit - Edible Peel",
+  "description": "Fresh figs are soft, sweet fruits with a unique texture. They are often eaten fresh, used in salads, or paired with cheeses and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440078",
+  "name": "Jambolan (java plum)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440073",
+  "group_name": "Miscellaneous Fruit - Edible Peel",
+  "description": "Jambolan, also known as java plum, is a dark purple fruit with a sweet and slightly astringent flavor. It is often eaten fresh or used in jams and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440079",
+  "name": "Kumquats",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440073",
+  "group_name": "Miscellaneous Fruit - Edible Peel",
+  "description": "Kumquats are small, oval citrus fruits with a sweet peel and tart flesh. They are often eaten whole, used in marmalades, or as a garnish."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440080",
+  "name": "Olives (table consumption)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440073",
+  "group_name": "Miscellaneous Fruit - Edible Peel",
+  "description": "Table olives are cured and prepared for direct consumption. They come in various flavors, from briny to sweet, and are often used in salads, tapenades, and as snacks."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440081",
+  "name": "Persimmon - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440073",
+  "group_name": "Miscellaneous Fruit - Edible Peel",
+  "description": "Persimmons are sweet, orange fruits with a honey-like flavor. They can be eaten fresh, dried, or used in desserts and baked goods."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440082",
+  "name": "Other misc. fruit - edible peel",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440073",
+  "group_name": "Miscellaneous Fruit - Edible Peel",
+  "description": "This category includes other miscellaneous fruits with edible peels not specifically listed, such as guavas and loquats."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440084",
+  "name": "American persimmon (Virginia kaki)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "American persimmon, also known as Virginia kaki, is a small, sweet fruit with a soft texture. It is often eaten fresh or used in desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440085",
+  "name": "Kiwi fruit - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "Kiwi fruit is a small, green fruit with a tangy-sweet flavor and tiny black seeds. It is often eaten fresh, used in salads, or dried as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440086",
+  "name": "Longans",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "Longans are small, round fruits with a sweet, floral flavor. They are often eaten fresh or used in desserts and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440087",
+  "name": "Litchis (lychee)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "Litchis, also known as lychees, are small, juicy fruits with a sweet, floral flavor. They are often eaten fresh or used in desserts and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440088",
+  "name": "Passion fruit, granadilla, maracujá",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "Passion fruit, also known as granadilla or maracujá, is a tropical fruit with a tart, aromatic flavor. It is often used in juices, desserts, and sauces."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440089",
+  "name": "Prickly pear",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "Prickly pear is the fruit of the cactus plant, with a sweet, mild flavor. It is often eaten fresh or used in jams, jellies, and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440090",
+  "name": "Rambutans",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "Rambutans are small, hairy fruits with a sweet, juicy flesh. They are often eaten fresh or used in desserts and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440091",
+  "name": "Star apple",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "Star apple is a tropical fruit with a sweet, milky flesh. It is often eaten fresh or used in desserts and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440092",
+  "name": "Tamarillo",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "Tamarillo, also known as tree tomato, is a small, egg-shaped fruit with a tangy flavor. It is often used in sauces, jams, and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440093",
+  "name": "Other misc. fruit - inedible peel, small",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440083",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Small",
+  "description": "This category includes other small fruits with inedible peels not specifically listed, such as mangosteens and salak."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440095",
+  "name": "Avocados",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Avocados are creamy, nutrient-rich fruits with a mild, buttery flavor. They are often eaten fresh, used in salads, or made into guacamole."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440096",
+  "name": "Bananas & plantains",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Bananas and plantains are starchy, sweet fruits often eaten fresh, cooked, or used in baking. Plantains are typically cooked before eating."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440097",
+  "name": "Bread fruit",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Breadfruit is a starchy tropical fruit often used as a staple food. It can be roasted, fried, or boiled and has a texture similar to bread."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440098",
+  "name": "Cherimoya",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Cherimoya, also known as custard apple, is a sweet, creamy fruit with a unique flavor. It is often eaten fresh or used in desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440099",
+  "name": "Durian",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Durian is a large, spiky fruit known for its strong odor and creamy, custard-like flesh. It is often eaten fresh or used in desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440100",
+  "name": "Guava - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Guava is a tropical fruit with a sweet, tangy flavor. It is often eaten fresh, used in juices, or dried as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440101",
+  "name": "Mangoes - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Mangoes are sweet, juicy fruits with a rich, tropical flavor. They are often eaten fresh, used in smoothies, or dried as a snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440102",
+  "name": "Papaya (pawpaw)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Papaya, also known as pawpaw, is a tropical fruit with a sweet, musky flavor. It is often eaten fresh, used in salads, or made into juices."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440103",
+  "name": "Pineapples",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Pineapples are tropical fruits with a sweet, tangy flavor. They are often eaten fresh, used in desserts, or made into juices."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440104",
+  "name": "Pomegranates",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Pomegranates are large, red fruits filled with juicy, tart seeds. They are often eaten fresh, used in salads, or made into juices."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440105",
+  "name": "Soursop (guanabana)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "Soursop, also known as guanabana, is a large, spiky fruit with a sweet, tangy flavor. It is often eaten fresh or used in beverages and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440106",
+  "name": "Other misc. fruit - inedible peel, large",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440094",
+  "group_name": "Miscellaneous Fruit - Inedible Peel, Large",
+  "description": "This category includes other large fruits with inedible peels not specifically listed, such as jackfruit and breadnut."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440108",
+  "name": "Early potatoes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440107",
+  "group_name": "Root and Tuber Vegetables - Potatoes",
+  "description": "Early potatoes are harvested before they reach full maturity, resulting in a tender texture and thin skin. They are often used in salads and light cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440109",
+  "name": "Ware potatoes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440107",
+  "group_name": "Root and Tuber Vegetables - Potatoes",
+  "description": "Ware potatoes are fully mature potatoes with a thicker skin and firmer texture. They are suitable for long-term storage and versatile in cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440111",
+  "name": "Cassava, manioc, tapioca and products",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440110",
+  "group_name": "Root and Tuber Vegetables - Tropical",
+  "description": "Cassava, also known as manioc, is a starchy root vegetable used in various forms, including fresh, dried (tapioca), and processed products. It is a staple food in many tropical regions."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440112",
+  "name": "Dasheen, taro & eddoes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440110",
+  "group_name": "Root and Tuber Vegetables - Tropical",
+  "description": "Dasheen, taro, and eddoes are starchy root vegetables commonly used in tropical cuisines. They are often boiled, fried, or used in stews and soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440113",
+  "name": "Sweet potatoes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440110",
+  "group_name": "Root and Tuber Vegetables - Tropical",
+  "description": "Sweet potatoes are root vegetables with a sweet, orange flesh. They are often baked, mashed, or used in desserts and savory dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440114",
+  "name": "Yams",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440110",
+  "group_name": "Root and Tuber Vegetables - Tropical",
+  "description": "Yams are starchy tuber vegetables with a rough, bark-like skin. They are often boiled, roasted, or used in traditional dishes in tropical regions."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440115",
+  "name": "Other tropical root & tuber vegetables",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440110",
+  "group_name": "Root and Tuber Vegetables - Tropical",
+  "description": "This category includes other tropical root and tuber vegetables not specifically listed, such as arrowroot and malanga."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440117",
+  "name": "Beetroot",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Beetroot is a root vegetable with a deep red color and sweet, earthy flavor. It is often eaten roasted, boiled, or used in salads and juices."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440118",
+  "name": "Carrots",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Carrots are root vegetables with a sweet, crunchy texture. They are often eaten raw, cooked, or used in soups, stews, and salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440119",
+  "name": "Celeriac",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Celeriac, also known as celery root, is a knobby root vegetable with a mild, celery-like flavor. It is often used in soups, stews, and mashed dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440120",
+  "name": "Chicory (root)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Chicory root is a bitter root vegetable often used as a coffee substitute or in herbal teas. It is also used in cooking and as a dietary supplement."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440121",
+  "name": "Jerusalem artichokes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Jerusalem artichokes, also known as sunchokes, are tuber vegetables with a nutty, sweet flavor. They are often roasted, sautéed, or used in soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440122",
+  "name": "Parsnips",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Parsnips are root vegetables with a sweet, nutty flavor. They are often roasted, mashed, or used in soups and stews."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440123",
+  "name": "Parsley root",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Parsley root is a root vegetable with a mild, parsley-like flavor. It is often used in soups, stews, and as a flavoring agent."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440124",
+  "name": "Radishes incl. daikon",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Radishes, including daikon, are root vegetables with a crisp texture and peppery flavor. They are often eaten raw, pickled, or used in salads and soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440125",
+  "name": "Salsify",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Salsify, also known as oyster plant, is a root vegetable with a mild, oyster-like flavor. It is often boiled, mashed, or used in soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440126",
+  "name": "Swedes and rutabaga",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Swedes and rutabaga are root vegetables with a sweet, earthy flavor. They are often roasted, mashed, or used in stews and casseroles."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440127",
+  "name": "Turnips",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "Turnips are root vegetables with a slightly bitter, peppery flavor. They are often roasted, boiled, or used in soups and stews."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440128",
+  "name": "Other temperate root & tuber vegetables",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440116",
+  "group_name": "Root and Tuber Vegetables - Temperate",
+  "description": "This category includes other temperate root and tuber vegetables not specifically listed, such as horseradish and skirret."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440130",
+  "name": "Garlic, fresh, powder and paste",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440129",
+  "group_name": "Bulb Vegetables",
+  "description": "Garlic is a pungent bulb vegetable used fresh, as a powder, or in paste form. It is a key ingredient in many cuisines for its strong, savory flavor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440131",
+  "name": "Onions",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440129",
+  "group_name": "Bulb Vegetables",
+  "description": "Onions are bulb vegetables with a sharp, pungent flavor. They are used in a wide variety of dishes, both raw and cooked."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440132",
+  "name": "Shallots",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440129",
+  "group_name": "Bulb Vegetables",
+  "description": "Shallots are small, mild-flavored bulb vegetables often used in gourmet cooking. They are similar to onions but with a sweeter, more delicate flavor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440133",
+  "name": "Spring onions, Welsh onions, scallions",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440129",
+  "group_name": "Bulb Vegetables",
+  "description": "Spring onions, Welsh onions, and scallions are mild-flavored bulb vegetables often used as garnishes or in salads, soups, and stir-fries."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440134",
+  "name": "Other bulb vegetables",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440129",
+  "group_name": "Bulb Vegetables",
+  "description": "This category includes other bulb vegetables not specifically listed, such as leeks and chives."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440136",
+  "name": "Aubergines (egg plant, brinjal)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Aubergines, also known as eggplants or brinjals, are versatile vegetables with a spongy texture and mild flavor. They are often used in dishes like ratatouille, curries, and grilled preparations."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440137",
+  "name": "Pepinos",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Pepinos are sweet, melon-like fruits with a mild, cucumber-like flavor. They are often eaten fresh or used in fruit salads and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440138",
+  "name": "Peppers (sweet or bell) - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Sweet or bell peppers are colorful, mild-flavored vegetables often used in salads, stir-fries, and stuffed dishes. They can be eaten fresh or dried."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440139",
+  "name": "Chilli peppers - fresh or dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Chilli peppers are spicy vegetables used to add heat and flavor to dishes. They can be used fresh, dried, or ground into powders and sauces."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440140",
+  "name": "Tomatoes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Tomatoes are juicy, flavorful fruits often used as vegetables in cooking. They are used in salads, sauces, soups, and a wide variety of dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440141",
+  "name": "Tomatillo (ground cherry)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Tomatillos, also known as ground cherries, are small, green fruits with a tart flavor. They are often used in Mexican cuisine, particularly in salsas and sauces."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440142",
+  "name": "Other solanacea",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "This category includes other members of the Solanaceae family not specifically listed, such as tamarillos and garden huckleberries."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440143",
+  "name": "Bitter melon (balsam pear)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Bitter melon, also known as balsam pear, is a tropical fruit with a bitter taste. It is often used in Asian cuisines for its unique flavor and health benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440144",
+  "name": "Courgettes, zucchini, summer squash",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Courgettes, zucchini, and summer squash are mild-flavored, versatile vegetables often used in salads, stir-fries, and baked dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440145",
+  "name": "Cucumbers",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Cucumbers are crisp, refreshing vegetables often eaten raw in salads, sandwiches, or as a snack. They are also used in pickling."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440146",
+  "name": "Gherkins",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Gherkins are small, pickled cucumbers with a tangy flavor. They are often used as a condiment or snack."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440147",
+  "name": "Mexican squash (choyote or christophine)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Mexican squash, also known as chayote or christophine, is a mild-flavored vegetable often used in soups, stews, and salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440148",
+  "name": "Other cucurbits-edible peel",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "This category includes other cucurbit vegetables with edible peels not specifically listed, such as pattypan squash and luffa."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440149",
+  "name": "Melons, cantaloupes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Melons, including cantaloupes, are sweet, juicy fruits often eaten fresh or used in fruit salads and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440150",
+  "name": "Pumpkins & squashes (winter squash, marrows)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Pumpkins and winter squashes are hearty, flavorful vegetables often used in soups, stews, and baked dishes. Marrows are a type of summer squash."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440151",
+  "name": "Watermelons",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Watermelons are large, juicy fruits with a sweet, refreshing flavor. They are often eaten fresh or used in fruit salads and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440152",
+  "name": "Other cucurbits-inedible peel",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "This category includes other cucurbit vegetables with inedible peels not specifically listed, such as bottle gourds and snake gourds."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440153",
+  "name": "Okra (bhindi, gumbo, ladies fingers)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Okra, also known as bhindi or ladies fingers, is a green, pod-like vegetable often used in stews, soups, and fried dishes. It has a unique, slightly slimy texture."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440154",
+  "name": "Sweetcorn and baby corn",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440135",
+  "group_name": "Fruiting Vegetables",
+  "description": "Sweetcorn and baby corn are sweet, tender vegetables often eaten fresh, boiled, or grilled. Baby corn is commonly used in stir-fries and salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440156",
+  "name": "Broccoli, calabrese",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "Broccoli and calabrese are green, nutrient-rich vegetables with a mild, slightly bitter flavor. They are often steamed, roasted, or used in stir-fries."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440157",
+  "name": "Cauliflower",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "Cauliflower is a versatile vegetable with a mild, slightly nutty flavor. It is often used in dishes like cauliflower rice, roasted cauliflower, and soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440158",
+  "name": "Chinese broccoli/kale, kai lan, gai lan, cai ro and choi sum",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "Chinese broccoli, kale, kai lan, gai lan, cai ro, and choi sum are leafy green vegetables commonly used in Asian cuisines. They are often stir-fried or steamed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440159",
+  "name": "Brussels sprouts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "Brussels sprouts are small, cabbage-like vegetables with a slightly bitter flavor. They are often roasted, sautéed, or used in casseroles."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440160",
+  "name": "Other flowering brassicas",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "This category includes other flowering brassica vegetables not specifically listed, such as Romanesco broccoli and purple cauliflower."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440161",
+  "name": "Head cabbage",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "Head cabbage is a leafy vegetable with a dense, round head. It is often used in coleslaw, soups, and stir-fries."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440162",
+  "name": "Other head brassicas",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "This category includes other head brassica vegetables not specifically listed, such as savoy cabbage and red cabbage."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440163",
+  "name": "Chinese cabbage and pak choi, bok choi",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "Chinese cabbage, pak choi, and bok choi are leafy green vegetables commonly used in Asian cuisines. They are often stir-fried or used in soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440164",
+  "name": "Kale (includes collards)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "Kale, including collards, is a nutrient-dense leafy green vegetable with a slightly bitter flavor. It is often used in salads, soups, and smoothies."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440165",
+  "name": "Other leafy brassicas",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "This category includes other leafy brassica vegetables not specifically listed, such as mustard greens and turnip greens."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440166",
+  "name": "Kohlrabi",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440155",
+  "group_name": "Brassica Vegetables",
+  "description": "Kohlrabi is a bulbous vegetable with a mild, slightly sweet flavor. It is often eaten raw, roasted, or used in soups and stews."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440168",
+  "name": "Cress",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Cress is a leafy green vegetable with a peppery flavor. It is often used as a garnish, in salads, or as a microgreen."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440169",
+  "name": "Microgreens (other than cress)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Microgreens are young, tender greens harvested just after the first leaves have developed. They are often used as garnishes or in salads for their intense flavors and nutritional benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440170",
+  "name": "Lambs lettuce (corn salad)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Lambs lettuce, also known as corn salad, is a tender leafy green with a mild, nutty flavor. It is often used in salads and as a garnish."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440171",
+  "name": "Land cress",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Land cress is a leafy green vegetable with a peppery flavor similar to watercress. It is often used in salads, soups, and as a garnish."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440172",
+  "name": "Lettuce",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Lettuce is a leafy green vegetable commonly used in salads, sandwiches, and wraps. It comes in various varieties, including romaine, iceberg, and butterhead."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440173",
+  "name": "Red mustard",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Red mustard is a leafy green vegetable with a spicy, peppery flavor. It is often used in salads, stir-fries, and as a garnish."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440174",
+  "name": "Ruccola (rocket, arugula)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Ruccola, also known as rocket or arugula, is a leafy green with a peppery, slightly bitter flavor. It is often used in salads, pizzas, and as a garnish."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440175",
+  "name": "Leaves and stems of brassica",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "This category includes the leaves and stems of brassica vegetables, such as kale, collards, and mustard greens, which are often used in cooking and salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440176",
+  "name": "Scarole (broad-leaf endive) & frisée",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Scarole and frisée are types of endive with slightly bitter, curly leaves. They are often used in salads and cooked dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440177",
+  "name": "Other lettuce-like and salad vegetables",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "This category includes other lettuce-like and salad vegetables not specifically listed, such as mizuna and tatsoi."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440178",
+  "name": "Spinach",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Spinach is a nutrient-rich leafy green vegetable with a mild, slightly sweet flavor. It is often used in salads, soups, and cooked dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440179",
+  "name": "Beet leaves (chard)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Beet leaves, also known as chard, are leafy greens with a slightly bitter flavor. They are often used in salads, soups, and sautéed dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440180",
+  "name": "Purslane",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Purslane is a succulent leafy green with a slightly tangy flavor. It is often used in salads, soups, and as a garnish."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440181",
+  "name": "Other spinach-like leaf vegetables",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "This category includes other spinach-like leafy greens not specifically listed, such as amaranth and orache."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440182",
+  "name": "Vine leaves",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Vine leaves, such as grape leaves, are often used in Mediterranean cuisine for wrapping dishes like dolmas. They have a mild, slightly tangy flavor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440183",
+  "name": "Watercress",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Watercress is a peppery, leafy green vegetable often used in salads, sandwiches, and as a garnish. It is also used in soups and stir-fries."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440184",
+  "name": "Ong choi (fresh water spinach)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Ong choi, also known as water spinach, is a leafy green vegetable commonly used in Asian cuisines. It is often stir-fried or used in soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440185",
+  "name": "Witloof (chicory) and forced radicchio",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "Witloof, also known as chicory, and forced radicchio are bitter leafy greens often used in salads and cooked dishes. They are known for their crisp texture."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440186",
+  "name": "Other leaf vegetables (not lettuce or spinach-like)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440167",
+  "group_name": "Leaf Vegetables",
+  "description": "This category includes other leaf vegetables not specifically listed, such as sorrel and dandelion greens."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440188",
+  "name": "Basil",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Basil is a fragrant herb with a sweet, slightly peppery flavor. It is often used in Italian cuisine, particularly in pesto, salads, and pasta dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440189",
+  "name": "Bay leaves (sweet bay, laurel)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Bay leaves are aromatic leaves used to flavor soups, stews, and sauces. They are typically removed before serving."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440190",
+  "name": "Celery leaves (Chinese celery)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Celery leaves, including Chinese celery, are aromatic greens often used to flavor soups, stews, and stir-fries. They have a stronger flavor than celery stalks."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440191",
+  "name": "Centella (Asiatic pennywort, gotu kola)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Centella, also known as Asiatic pennywort or gotu kola, is a leafy herb often used in traditional medicine and Asian cuisines. It has a slightly bitter flavor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440192",
+  "name": "Chervil",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Chervil is a delicate herb with a mild, anise-like flavor. It is often used in French cuisine, particularly in salads, soups, and sauces."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440193",
+  "name": "Chives",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Chives are a mild-flavored herb with a subtle onion-like taste. They are often used as a garnish or in salads, soups, and dips."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440194",
+  "name": "Coriander leaves (cilantro)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Coriander leaves, also known as cilantro, are a fragrant herb with a citrusy, slightly peppery flavor. They are often used in Mexican, Indian, and Asian cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440195",
+  "name": "Curry leaves (Bergera/Murraya koenigii)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Curry leaves are aromatic leaves used in Indian and Southeast Asian cuisines. They have a slightly bitter, nutty flavor and are often used in curries and soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440196",
+  "name": "Dill leaves",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Dill leaves are a fragrant herb with a slightly sweet, anise-like flavor. They are often used in pickling, salads, and seafood dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440197",
+  "name": "Lemongrass",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Lemongrass is a fragrant herb with a citrusy flavor. It is often used in Asian cuisines, particularly in soups, curries, and teas."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440198",
+  "name": "Marjoram",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Marjoram is a fragrant herb with a sweet, slightly citrusy flavor. It is often used in Mediterranean cuisine, particularly in meat dishes and soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440199",
+  "name": "Mint",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Mint is a refreshing herb with a cool, slightly sweet flavor. It is often used in beverages, desserts, and savory dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440200",
+  "name": "Oregano",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Oregano is a pungent herb with a slightly bitter, earthy flavor. It is often used in Mediterranean and Mexican cuisines, particularly in tomato-based dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440201",
+  "name": "Paan leaves (Betel)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Paan leaves, also known as betel leaves, are aromatic leaves often used in traditional medicine and as a wrapper for betel nut preparations."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440202",
+  "name": "Parsley",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Parsley is a mild-flavored herb often used as a garnish or in salads, soups, and sauces. It comes in flat-leaf and curly varieties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440203",
+  "name": "Perilla",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Perilla is a fragrant herb with a slightly minty, anise-like flavor. It is often used in Korean and Japanese cuisines, particularly in salads and wraps."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440204",
+  "name": "Rosemary",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Rosemary is a fragrant herb with a pine-like flavor. It is often used in Mediterranean cuisine, particularly in roasted meats and vegetables."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440205",
+  "name": "Sage",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Sage is a fragrant herb with a slightly peppery, earthy flavor. It is often used in stuffing, sausages, and roasted dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440206",
+  "name": "Tarragon",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Tarragon is a fragrant herb with a slightly sweet, anise-like flavor. It is often used in French cuisine, particularly in sauces and salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440207",
+  "name": "Thyme",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "Thyme is a fragrant herb with a slightly minty, earthy flavor. It is often used in Mediterranean cuisine, particularly in stews, soups, and roasted dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440208",
+  "name": "Other herbs - fresh",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "This category includes other fresh herbs not specifically listed, such as lovage and borage."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440209",
+  "name": "Other herbs - dried",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440187",
+  "group_name": "Fresh Herbs",
+  "description": "This category includes other dried herbs not specifically listed, such as dried thyme and dried oregano."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440211",
+  "name": "Beans with pods (French: P. vulgaris type), haricots verts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440210",
+  "group_name": "Legume Vegetables",
+  "description": "Beans with pods, such as French beans (haricots verts), are tender, green vegetables often used in salads, stir-fries, and steamed dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440212",
+  "name": "Beans with pods (yard long, asparagus, valor, papri, ethnic)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440210",
+  "group_name": "Legume Vegetables",
+  "description": "This category includes various types of beans with pods, such as yard-long beans, asparagus beans, and ethnic varieties, often used in stir-fries and traditional dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440213",
+  "name": "Beans without pods (broad etc.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440210",
+  "group_name": "Legume Vegetables",
+  "description": "Beans without pods, such as broad beans, are often shelled and used in soups, stews, and salads. They are rich in protein and fiber."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440214",
+  "name": "Peas with pods (snap, snow, mange tout)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440210",
+  "group_name": "Legume Vegetables",
+  "description": "Peas with pods, such as snap peas, snow peas, and mange tout, are tender, sweet vegetables often used in stir-fries, salads, and steamed dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440215",
+  "name": "Peas without pods",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440210",
+  "group_name": "Legume Vegetables",
+  "description": "Peas without pods, such as garden peas, are sweet, tender vegetables often used in soups, stews, and side dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440216",
+  "name": "Other legume vegetables",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440210",
+  "group_name": "Legume Vegetables",
+  "description": "This category includes other legume vegetables not specifically listed, such as chickpeas and lentils, often used in a variety of cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440218",
+  "name": "Asparagus",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Asparagus is a tender, green vegetable with a slightly bitter flavor. It is often steamed, grilled, or used in salads and stir-fries."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440219",
+  "name": "Cardoons",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Cardoons are thistle-like vegetables with a mild, artichoke-like flavor. They are often used in Mediterranean cuisine, particularly in stews and gratins."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440220",
+  "name": "Celery",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Celery is a crunchy, mild-flavored vegetable often used in salads, soups, and as a snack. It is also used as a flavoring agent in stocks and stews."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440221",
+  "name": "Fennel",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Fennel is a bulbous vegetable with a mild, anise-like flavor. It is often used in salads, soups, and roasted dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440222",
+  "name": "Globe artichokes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Globe artichokes are thistle-like vegetables with a tender heart and mild, nutty flavor. They are often steamed, grilled, or used in dips."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440223",
+  "name": "Leeks",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Leeks are mild-flavored vegetables with a sweet, onion-like taste. They are often used in soups, stews, and as a flavoring agent."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440224",
+  "name": "Rhubarb",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Rhubarb is a tart, fibrous vegetable often used in desserts, such as pies and crumbles. It is typically cooked with sugar to balance its acidity."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440225",
+  "name": "Bamboo shoots",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Bamboo shoots are tender, edible shoots of the bamboo plant. They are often used in Asian cuisines, particularly in stir-fries and soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440226",
+  "name": "Palm hearts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Palm hearts, also known as hearts of palm, are tender, ivory-colored vegetables harvested from the inner core of certain palm trees. They are often used in salads and gourmet dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440227",
+  "name": "Nopales (cactus pads)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "Nopales are the edible pads of the prickly pear cactus. They have a slightly tangy flavor and are often used in Mexican cuisine, particularly in salads and grilled dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440228",
+  "name": "Other stem vegetables",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440217",
+  "group_name": "Stem Vegetables",
+  "description": "This category includes other stem vegetables not specifically listed, such as kohlrabi and Swiss chard stems."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440230",
+  "name": "Cultivated mushrooms and fungi",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440229",
+  "group_name": "Fungi",
+  "description": "Cultivated mushrooms and fungi, such as button mushrooms, shiitake, and oyster mushrooms, are often used in a variety of cuisines for their earthy flavors and textures."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440231",
+  "name": "Wild mushrooms and fungi",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440229",
+  "group_name": "Fungi",
+  "description": "Wild mushrooms and fungi, such as morels, chanterelles, and truffles, are prized for their unique flavors and are often used in gourmet dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440232",
+  "name": "Yeast and yeast products",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440229",
+  "group_name": "Fungi",
+  "description": "Yeast and yeast products are used in baking, brewing, and fermentation. They are essential for making bread, beer, and other fermented foods."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440234",
+  "name": "Beans (dry)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440233",
+  "group_name": "Pulses",
+  "description": "Dry beans, such as kidney beans, black beans, and pinto beans, are a staple food in many cuisines. They are often used in soups, stews, and salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440235",
+  "name": "Chickpeas (dry)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440233",
+  "group_name": "Pulses",
+  "description": "Dry chickpeas, also known as garbanzo beans, are a versatile legume often used in dishes like hummus, curries, and salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440236",
+  "name": "Lentils (dry)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440233",
+  "group_name": "Pulses",
+  "description": "Dry lentils are a nutritious legume often used in soups, stews, and salads. They come in various colors, including green, red, and brown."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440237",
+  "name": "Lupins (dry)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440233",
+  "group_name": "Pulses",
+  "description": "Dry lupins are a protein-rich legume often used in Mediterranean and South American cuisines. They are typically soaked and cooked before consumption."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440238",
+  "name": "Peas (dry)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440233",
+  "group_name": "Pulses",
+  "description": "Dry peas, such as split peas, are often used in soups, stews, and purees. They are a good source of protein and fiber."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440239",
+  "name": "Other pulses (dry)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440233",
+  "group_name": "Pulses",
+  "description": "This category includes other dry pulses not specifically listed, such as cowpeas and pigeon peas."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440240",
+  "name": "Pulse products",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440233",
+  "group_name": "Pulses",
+  "description": "Pulse products include processed forms of pulses, such as flours, pastes, and snacks. They are often used in gluten-free and high-protein diets."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440241",
+  "name": "Guar gum",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440233",
+  "group_name": "Pulses",
+  "description": "Guar gum is a thickening agent derived from guar beans. It is often used in food processing, particularly in gluten-free and low-fat products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440243",
+  "name": "Linseed (flaxseed)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Linseed, also known as flaxseed, is a nutrient-rich oilseed often used for its high omega-3 fatty acid content. It is used in baking, smoothies, and as a dietary supplement."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440244",
+  "name": "Peanuts (groundnuts)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Peanuts, also known as groundnuts, are a popular oilseed used in snacks, peanut butter, and cooking oils. They are rich in protein and healthy fats."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440245",
+  "name": "Poppy seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Poppy seeds are small, oil-rich seeds often used in baking, particularly in breads, pastries, and desserts. They have a mild, nutty flavor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440246",
+  "name": "Sesame seed, tahini & halva",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Sesame seeds are small, oil-rich seeds used in a variety of cuisines. Tahini is a paste made from sesame seeds, and halva is a sweet confection made from sesame and sugar."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440247",
+  "name": "Sunflower seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Sunflower seeds are oil-rich seeds often eaten as a snack or used in baking and cooking. They are also pressed to produce sunflower oil."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440248",
+  "name": "Rape seed (canola)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Rape seed, also known as canola, is an oilseed used to produce canola oil, which is widely used in cooking and food processing."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440249",
+  "name": "Soya bean",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Soya beans are a versatile oilseed used to produce soy oil, tofu, soy milk, and other soy-based products. They are rich in protein and healthy fats."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440250",
+  "name": "Mustard seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Mustard seeds are small, oil-rich seeds used to produce mustard oil and condiments like mustard paste. They have a pungent, spicy flavor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440251",
+  "name": "Cotton seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Cotton seeds are oil-rich seeds used to produce cottonseed oil, which is used in cooking and food processing. The seeds are a byproduct of cotton production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440252",
+  "name": "Safflower seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Safflower seeds are oil-rich seeds used to produce safflower oil, which is often used in cooking and as a dietary supplement for its high unsaturated fat content."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440253",
+  "name": "Hemp seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Hemp seeds are nutrient-rich oilseeds often used in smoothies, salads, and as a dietary supplement. They are rich in omega-3 and omega-6 fatty acids."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440254",
+  "name": "Borage seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Borage seeds are oil-rich seeds used to produce borage oil, which is often used as a dietary supplement for its high gamma-linolenic acid (GLA) content."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440255",
+  "name": "Castor seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Castor seeds are oil-rich seeds used to produce castor oil, which is used in industrial applications, cosmetics, and as a laxative."
+}
+{
+  "id": "6c4e1169-1344-4b33-b331-23b3ac0fa0c2",
+  "name": "Black cumin seed oil",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "Black cumin seed oil is derived from the seeds of Nigella sativa, commonly known as black cumin or kalonji. It is used in cooking, traditional medicine, and as a dietary supplement. The oil is known for its potential health benefits, including anti-inflammatory and antioxidant properties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440256",
+  "name": "Other oilseeds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440242",
+  "group_name": "Oilseeds",
+  "description": "This category includes other oilseeds not specifically listed, such as camelina and evening primrose seeds."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440258",
+  "name": "Olives (oil extract)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "Olives are oil-rich fruits used to produce olive oil, which is widely used in cooking, salads, and as a dietary supplement for its health benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440259",
+  "name": "Palm nuts (palmoil kernels)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "Palm nuts are the kernels of the oil palm fruit, used to produce palm kernel oil, which is used in cooking, cosmetics, and industrial applications."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440260",
+  "name": "Palmfruit",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "Palmfruit is the fruit of the oil palm, used to produce palm oil, which is widely used in cooking, food processing, and industrial applications."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440261",
+  "name": "Kapok",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "Kapok is a fiber obtained from the seeds of the kapok tree. It is used in textiles and as a stuffing material, but the seeds can also be pressed for oil."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440262",
+  "name": "Oilseed products (other than oil)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "This category includes oilseed products other than oil, such as meal, flour, and protein isolates, often used in animal feed and food processing."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440263",
+  "name": "Lecithins (soya, sunflower etc.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "Lecithins are emulsifiers derived from oilseeds like soybeans and sunflower seeds. They are used in food processing, cosmetics, and as dietary supplements."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440264",
+  "name": "Peanut butter",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "Peanut butter is a spread made from ground peanuts. It is a popular snack and ingredient in baking and cooking, known for its rich, nutty flavor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440265",
+  "name": "Soya bean curd (tofu)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "Soya bean curd, also known as tofu, is a protein-rich food made from coagulated soy milk. It is a staple in vegetarian and vegan diets, used in a variety of dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440266",
+  "name": "Soya protein",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "Soya protein is a plant-based protein derived from soybeans. It is used in protein powders, meat substitutes, and as a dietary supplement."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440267",
+  "name": "Soya milk and milk products (yoghurt etc.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "Soya milk is a plant-based milk alternative made from soybeans. It is used in beverages, yogurts, and other dairy-free products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440268",
+  "name": "Other oilseed products",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440257",
+  "group_name": "Oilfruits",
+  "description": "This category includes other oilseed products not specifically listed, such as oilseed-based snacks, spreads, and condiments."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440270",
+  "name": "Carob",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Carob is a sweet, chocolate-like powder made from the pods of the carob tree. It is often used as a cocoa substitute in baking and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440271",
+  "name": "Cocoa beans & cocoa powder",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Cocoa beans are the seeds of the cacao tree, used to produce cocoa powder and chocolate. Cocoa powder is widely used in baking, beverages, and desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440272",
+  "name": "Coffee beans - green",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Green coffee beans are unroasted coffee beans, often used for their high antioxidant content. They are also used to produce green coffee extract."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440273",
+  "name": "Coffee beans - roasted, whole",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Roasted whole coffee beans are used to brew coffee. They are available in various roast levels, from light to dark, each offering distinct flavors."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440274",
+  "name": "Coffee beans - roasted, ground",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Roasted ground coffee beans are used to brew coffee. They are convenient for use in coffee makers and are available in various grind sizes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440275",
+  "name": "Tea - black, oolong",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Black tea and oolong tea are fermented and partially fermented teas, respectively. They are known for their robust flavors and are often consumed as hot or iced beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440276",
+  "name": "Tea - green, yellow, white",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Green, yellow, and white teas are minimally processed teas known for their delicate flavors and high antioxidant content. They are often consumed for their health benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440277",
+  "name": "Herbal infusions (dried) - flowers",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Herbal infusions made from dried flowers, such as chamomile and hibiscus, are caffeine-free beverages known for their soothing and aromatic properties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440278",
+  "name": "Chamomile flowers",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Chamomile flowers are used to make a calming herbal tea known for its mild, apple-like flavor and relaxing properties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440279",
+  "name": "Hibiscus flowers",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Hibiscus flowers are used to make a tart, crimson-colored herbal tea known for its refreshing flavor and potential health benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440280",
+  "name": "Jasmine flowers",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Jasmine flowers are often used to scent green or white tea, creating a fragrant and floral beverage known for its soothing aroma."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440281",
+  "name": "Lime (linden)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Lime flowers, also known as linden, are used to make a mild, floral herbal tea known for its calming and digestive properties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440282",
+  "name": "Rose petals",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Rose petals are used to make a fragrant, floral herbal tea known for its delicate flavor and potential health benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440283",
+  "name": "Other herbal dried flowers",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "This category includes other dried flowers used in herbal infusions, such as lavender, elderflower, and marigold."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440284",
+  "name": "Herbal infusions (dried) - leaves",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Herbal infusions made from dried leaves, such as mint and rooibos, are caffeine-free beverages known for their refreshing and aromatic properties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440285",
+  "name": "Maté",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Maté is a traditional South American herbal tea made from the dried leaves of the yerba maté plant. It is known for its energizing and stimulating effects."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440286",
+  "name": "Rooibos leaves",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Rooibos leaves are used to make a caffeine-free herbal tea known for its sweet, nutty flavor and potential health benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440287",
+  "name": "Strawberry leaves",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Strawberry leaves are used to make a mild, slightly fruity herbal tea known for its potential health benefits and soothing properties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440288",
+  "name": "Other herbal dried leaves",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "This category includes other dried leaves used in herbal infusions, such as lemon balm, nettle, and raspberry leaf."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440289",
+  "name": "Herbal infusions (dried) - roots",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Herbal infusions made from dried roots, such as ginger and licorice, are caffeine-free beverages known for their earthy and soothing flavors."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440290",
+  "name": "Ginseng root",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Ginseng root is used to make a herbal tea known for its potential health benefits, including boosting energy and improving mental clarity."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440291",
+  "name": "Valerian root",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Valerian root is used to make a herbal tea known for its calming and sleep-inducing properties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440292",
+  "name": "Other herbal dried roots",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "This category includes other dried roots used in herbal infusions, such as dandelion root, burdock root, and chicory root."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440293",
+  "name": "Herbal infusions - other",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "This category includes other herbal infusions not specifically listed, such as blends of flowers, leaves, and roots."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440294",
+  "name": "Herbals teas - mixed or unspecified",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "This category includes mixed or unspecified herbal teas, which may contain a blend of flowers, leaves, roots, and other botanicals."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440295",
+  "name": "Hops",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Hops are the flowers of the hop plant, used primarily in brewing beer for their bitter flavor and preservative qualities. They are also used in herbal teas for their calming properties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440296",
+  "name": "Hops (dried) including hop pellets & unconcentrated powder)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440269",
+  "group_name": "Tea, Coffee, Cocoa, Carobs",
+  "description": "Dried hops, including hop pellets and unconcentrated powder, are used in brewing and herbal teas. They provide bitterness, flavor, and aroma to beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440298",
+  "name": "Anise",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "Anise is a spice with a sweet, licorice-like flavor. It is often used in baking, beverages, and savory dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440299",
+  "name": "Black cumin (kalonji - Nigella sativa)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "Black cumin, also known as kalonji, is a spice with a slightly bitter, peppery flavor. It is often used in Indian and Middle Eastern cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440300",
+  "name": "Celery seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "Celery seed is a spice with a strong, slightly bitter flavor. It is often used in pickling, soups, and salads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440301",
+  "name": "Coriander seed and ground (dhania)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "Coriander seed, also known as dhania, is a spice with a citrusy, slightly sweet flavor. It is often used in curries, soups, and spice blends."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440302",
+  "name": "Cumin seed and ground (jeera)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "Cumin seed, also known as jeera, is a spice with a warm, earthy flavor. It is often used in Indian, Middle Eastern, and Mexican cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440303",
+  "name": "Dill seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "Dill seed is a spice with a slightly bitter, aromatic flavor. It is often used in pickling, breads, and soups."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440304",
+  "name": "Fennel seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "Fennel seed is a spice with a sweet, anise-like flavor. It is often used in baking, sausages, and spice blends."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440305",
+  "name": "Fenugreek seed and ground",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "Fenugreek seed is a spice with a slightly bitter, nutty flavor. It is often used in Indian and Middle Eastern cuisines, particularly in curries and spice blends."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440306",
+  "name": "Nutmeg whole and ground",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "Nutmeg is a spice with a warm, slightly sweet flavor. It is often used in baking, desserts, and savory dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440307",
+  "name": "Other spices - seeds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440297",
+  "group_name": "Spices - Seeds",
+  "description": "This category includes other seed-based spices not specifically listed, such as mustard seeds and caraway seeds."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440309",
+  "name": "Allspice (pimento)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Allspice, also known as pimento, is a spice with a warm, sweet flavor reminiscent of cinnamon, nutmeg, and cloves. It is often used in baking and savory dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440310",
+  "name": "Szechuan pepper (Japan or Sichuan pepper)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Szechuan pepper is a spice with a citrusy, slightly numbing flavor. It is often used in Chinese and Japanese cuisines, particularly in spicy dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440311",
+  "name": "Caraway",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Caraway is a spice with a slightly sweet, anise-like flavor. It is often used in breads, cheeses, and Eastern European cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440312",
+  "name": "Cardamom",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Cardamom is a spice with a sweet, floral flavor. It is often used in baking, desserts, and Indian and Middle Eastern cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440313",
+  "name": "Juniper seed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Juniper seeds are used as a spice with a piney, slightly bitter flavor. They are often used in marinades, stews, and to flavor gin."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440314",
+  "name": "Paprika and chilli powder",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Paprika and chili powder are spices made from dried and ground peppers. They are often used to add color and heat to dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440315",
+  "name": "Pepper, black, pink and white",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Black, pink, and white pepper are spices made from the dried berries of the pepper plant. They are used to add heat and flavor to a wide variety of dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440316",
+  "name": "Star anise",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Star anise is a spice with a sweet, licorice-like flavor. It is often used in Chinese cuisine and to flavor beverages like mulled wine."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440317",
+  "name": "Tamarind",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Tamarind is a spice with a sweet and sour flavor. It is often used in Indian, Southeast Asian, and Latin American cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440318",
+  "name": "Vanilla pods, vanilla paste",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "Vanilla pods and paste are used to add a sweet, floral flavor to desserts, beverages, and baked goods."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440319",
+  "name": "Other spices - fruits and berries",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440308",
+  "group_name": "Spices - Fruits and Berries",
+  "description": "This category includes other fruit and berry-based spices not specifically listed, such as sumac and juniper berries."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440321",
+  "name": "Cinnamon",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440320",
+  "group_name": "Spices - Bark",
+  "description": "Cinnamon is a spice made from the bark of the cinnamon tree. It has a sweet, warm flavor and is often used in baking, desserts, and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440322",
+  "name": "Other spices - bark",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440320",
+  "group_name": "Spices - Bark",
+  "description": "This category includes other bark-based spices not specifically listed, such as cassia and wild cinnamon."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440324",
+  "name": "Ginger",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440323",
+  "group_name": "Spices - Roots or Rhizome",
+  "description": "Ginger is a spice with a warm, slightly spicy flavor. It is often used in baking, cooking, and beverages, and is known for its digestive properties."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440325",
+  "name": "Horseradish",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440323",
+  "group_name": "Spices - Roots or Rhizome",
+  "description": "Horseradish is a spice with a pungent, spicy flavor. It is often used as a condiment and in sauces, particularly with roast beef."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440326",
+  "name": "Liquorice root",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440323",
+  "group_name": "Spices - Roots or Rhizome",
+  "description": "Liquorice root is a spice with a sweet, slightly bitter flavor. It is often used in candies, teas, and herbal remedies."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440327",
+  "name": "Turmeric (haldi), curcuma",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440323",
+  "group_name": "Spices - Roots or Rhizome",
+  "description": "Turmeric, also known as haldi or curcuma, is a spice with a warm, slightly bitter flavor. It is often used in curries, soups, and for its vibrant yellow color."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440328",
+  "name": "Other spices - roots or rhizome",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440323",
+  "group_name": "Spices - Roots or Rhizome",
+  "description": "This category includes other root or rhizome-based spices not specifically listed, such as galangal and arrowroot."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440329",
+  "name": "Spices - Buds",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440329",
+  "group_name": "Spices - Buds",
+  "description": "This group includes spices derived from buds, such as cloves and capers."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440330",
+  "name": "Cloves",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440329",
+  "group_name": "Spices - Buds",
+  "description": "Cloves are aromatic flower buds used as a spice in cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440331",
+  "name": "Capers",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440329",
+  "group_name": "Spices - Buds",
+  "description": "Capers are pickled flower buds used as a condiment or seasoning."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440332",
+  "name": "Other spices - buds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440329",
+  "group_name": "Spices - Buds",
+  "description": "This category includes other bud-based spices not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440333",
+  "name": "Spices - Flower Stigma",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440333",
+  "group_name": "Spices - Flower Stigma",
+  "description": "This group includes spices derived from flower stigmas, such as saffron."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440334",
+  "name": "Saffron",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440333",
+  "group_name": "Spices - Flower Stigma",
+  "description": "Saffron is a spice derived from the flower of Crocus sativus, known for its vibrant color and flavor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440335",
+  "name": "Other spices - flower stigma",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440333",
+  "group_name": "Spices - Flower Stigma",
+  "description": "This category includes other flower stigma-based spices not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440336",
+  "name": "Spices - Aril",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440336",
+  "group_name": "Spices - Aril",
+  "description": "This group includes spices derived from arils, such as mace."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440337",
+  "name": "Mace",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440336",
+  "group_name": "Spices - Aril",
+  "description": "Mace is the aril of the nutmeg seed, used as a spice."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440338",
+  "name": "Other spices - aril",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440336",
+  "group_name": "Spices - Aril",
+  "description": "This category includes other aril-based spices not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440339",
+  "name": "Spices - Gums and Resins",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440339",
+  "group_name": "Spices - Gums and Resins",
+  "description": "This group includes spices derived from gums and resins, such as asafoetida."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440340",
+  "name": "Asafoetida",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440339",
+  "group_name": "Spices - Gums and Resins",
+  "description": "Asafoetida is a resinous gum used as a spice, known for its strong odor."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440341",
+  "name": "Other spices - gums and resins",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440339",
+  "group_name": "Spices - Gums and Resins",
+  "description": "This category includes other gum and resin-based spices not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440342",
+  "name": "Spices - Mixtures/Blends",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440342",
+  "group_name": "Spices - Mixtures/Blends",
+  "description": "This group includes spice mixtures and blends, such as curry powder."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440343",
+  "name": "Spice mixtures/other spices, curry powder",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440342",
+  "group_name": "Spices - Mixtures/Blends",
+  "description": "This category includes various spice mixtures and blends, including curry powder."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440344",
+  "name": "Cereals - Unprocessed",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "This group includes unprocessed cereals such as wheat, rye, and barley."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440345",
+  "name": "Wheat (including spelt)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Wheat is a cereal grain used as a staple food in many cultures."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440346",
+  "name": "Rye",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Rye is a cereal grain used in bread and other baked goods."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440347",
+  "name": "Barley",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Barley is a cereal grain used in brewing and as a food source."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440348",
+  "name": "Sorghum",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Sorghum is a cereal grain used in food and animal feed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440349",
+  "name": "Oats",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Oats are a cereal grain commonly used in breakfast cereals and baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440350",
+  "name": "Triticale",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Triticale is a hybrid of wheat and rye, used in food and animal feed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440351",
+  "name": "Maize (yellow corn)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Maize, also known as corn, is a cereal grain used in a variety of food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440352",
+  "name": "Buckwheat",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Buckwheat is a pseudocereal used in food products such as pancakes and noodles."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440353",
+  "name": "Millet",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Millet is a cereal grain used in food and animal feed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440354",
+  "name": "Rice",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Rice is a staple food grain used in a variety of cuisines worldwide."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440355",
+  "name": "Quinoa",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "Quinoa is a pseudocereal known for its high protein content and versatility in cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440356",
+  "name": "Other cereals",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440344",
+  "group_name": "Cereals - Unprocessed",
+  "description": "This category includes other unprocessed cereals not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440357",
+  "name": "Other Seeds - Unprocessed (excluding pulses)",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "This group includes unprocessed seeds that are not classified as pulses, such as chia seeds and pumpkin seeds."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440358",
+  "name": "Cassia seeds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "Cassia seeds are used in traditional medicine and as a food ingredient."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440359",
+  "name": "Chia seeds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "Chia seeds are known for their high omega-3 fatty acid content and are used in various health foods."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440360",
+  "name": "Grapefruit seeds (& extract - GSE)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "Grapefruit seeds and their extract are used in dietary supplements and natural remedies."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440361",
+  "name": "Lotus seeds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "Lotus seeds are used in traditional Asian cuisine and medicine."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440362",
+  "name": "Melon (egusi) seeds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "Egusi seeds are commonly used in African cuisine, particularly in soups and stews."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440363",
+  "name": "Pumpkin seeds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "Pumpkin seeds are a popular snack and are also used in baking and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440364",
+  "name": "Other seeds - not listed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "This category includes other unprocessed seeds not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440365",
+  "name": "Other seeds - sprouted",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "This category includes sprouted seeds, which are often used in salads and health foods."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440366",
+  "name": "Alfalfa sprouts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "Alfalfa sprouts are commonly used in salads and sandwiches for their nutritional value."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440367",
+  "name": "Bean sprouts (mung beans)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "Bean sprouts, particularly from mung beans, are widely used in Asian cuisine."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440368",
+  "name": "Other sprouted seeds and mixed sprouts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440357",
+  "group_name": "Other Seeds - Unprocessed (excluding pulses)",
+  "description": "This category includes other sprouted seeds and mixed sprouts used in various culinary applications."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440369",
+  "name": "Sugar Plants",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440369",
+  "group_name": "Sugar Plants",
+  "description": "This group includes plants used for sugar production, such as sugar beet and sugar cane."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440370",
+  "name": "Sugar beet",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440369",
+  "group_name": "Sugar Plants",
+  "description": "Sugar beet is a root crop used for sugar production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440371",
+  "name": "Sugar cane",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440369",
+  "group_name": "Sugar Plants",
+  "description": "Sugar cane is a tall grass used for sugar production and as a raw material for ethanol."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440372",
+  "name": "Chicory roots (for inulin production)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440369",
+  "group_name": "Sugar Plants",
+  "description": "Chicory roots are used for inulin production, a type of dietary fiber."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440373",
+  "name": "Other sugar plants",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440369",
+  "group_name": "Sugar Plants",
+  "description": "This category includes other plants used for sugar production not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440374",
+  "name": "Cereals - Processed",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This group includes processed cereal products such as flour, bran, and breakfast cereals."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440375",
+  "name": "Bran (all cereals)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Bran is the outer layer of cereal grains, often used in high-fiber foods."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440376",
+  "name": "Germ (all cereals)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Germ is the embryo of the cereal grain, rich in nutrients and used in health foods."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440377",
+  "name": "Gluten (all cereals)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Gluten is a protein found in wheat and related grains, used in baking and food processing."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440378",
+  "name": "Malt (all cereals)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Malt is germinated cereal grains, used in brewing and baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440379",
+  "name": "Flour (all cereals except maize)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Flour is a powder made from grinding cereal grains, used in baking and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440380",
+  "name": "Other processed cereals (rusk, meal etc. excluding breading mixes)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This category includes other processed cereal products such as rusk and meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440381",
+  "name": "Semolina, couscous, farina",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Semolina, couscous, and farina are processed cereal products used in various cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440382",
+  "name": "Breads",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Breads are baked products made from cereal flour, water, and yeast."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440383",
+  "name": "Pastries, biscuits, cakes etc.",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This category includes baked goods such as pastries, biscuits, and cakes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440384",
+  "name": "Cereal snacks (other than maize-based)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This category includes cereal-based snacks, excluding those made from maize."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440385",
+  "name": "Breakfast cereals (other than maize-based)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This category includes breakfast cereals made from cereals other than maize."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440386",
+  "name": "Cereal snacks (maize-based)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This category includes maize-based cereal snacks."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440387",
+  "name": "Breakfast cereals (maize-based)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This category includes maize-based breakfast cereals."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440388",
+  "name": "Pasta and noodles",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Pasta and noodles are processed cereal products used in various cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440389",
+  "name": "Other processed starch foods",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This category includes other processed foods made from starch."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440390",
+  "name": "Polenta & maize flour/meal & cornmeal",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Polenta, maize flour, and cornmeal are processed maize products used in cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440391",
+  "name": "Other non-cereal flours (chia, chestnut, pumpkin etc)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This category includes flours made from non-cereal sources such as chia and chestnut."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440392",
+  "name": "Potato starch",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Potato starch is a processed starch used in cooking and food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440393",
+  "name": "Sago",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Sago is a starch extracted from the pith of sago palms, used in cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440394",
+  "name": "Tapioca",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "Tapioca is a starch extracted from the cassava plant, used in cooking and baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440395",
+  "name": "Other/unspecified starches",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440374",
+  "group_name": "Cereals - Processed",
+  "description": "This category includes other or unspecified starches used in food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440396",
+  "name": "Foods for Infants and Young Children",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440396",
+  "group_name": "Foods for Infants and Young Children",
+  "description": "This group includes specially formulated foods for infants and young children, such as baby food and infant formula."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440397",
+  "name": "Baby food",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440396",
+  "group_name": "Foods for Infants and Young Children",
+  "description": "Baby food is specially prepared for infants and young children, often pureed or mashed for easy consumption."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440398",
+  "name": "Infant food",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440396",
+  "group_name": "Foods for Infants and Young Children",
+  "description": "Infant food is designed for babies who are transitioning from breast milk or formula to solid foods."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440399",
+  "name": "Infant formulae",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440396",
+  "group_name": "Foods for Infants and Young Children",
+  "description": "Infant formula is a manufactured food designed for feeding infants under 12 months of age."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440400",
+  "name": "Dietary foods for special medical purposes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440396",
+  "group_name": "Foods for Infants and Young Children",
+  "description": "These are specially formulated foods for infants and young children with specific medical conditions."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440401",
+  "name": "Meat and Meat Products (excluding poultry)",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "This group includes meat and meat products from animals such as beef, pork, and lamb, excluding poultry."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440402",
+  "name": "Meat - bovine (beef, veal, cow)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Bovine meat includes beef and veal, derived from cattle."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440403",
+  "name": "Meat - caprine (goat, kid)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Caprine meat includes goat and kid meat, commonly consumed in various cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440404",
+  "name": "Meat - equidae (horse)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Equidae meat includes horse meat, consumed in certain cultures."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440405",
+  "name": "Meat - ovine (lamb, mutton, sheep)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Ovine meat includes lamb and mutton, derived from sheep."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440406",
+  "name": "Meat - porcine (pork, pig)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Porcine meat includes pork, derived from pigs."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440407",
+  "name": "Meat - deer, including reindeer (venison)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Venison is the meat of deer, including reindeer, often considered a game meat."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440408",
+  "name": "Meat - rabbit or hare",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Rabbit and hare meat are lean meats consumed in various cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440409",
+  "name": "Meat - amphibian",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Amphibian meat includes meat from frogs and other amphibians."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440410",
+  "name": "Meat - reptile",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Reptile meat includes meat from snakes, lizards, and other reptiles."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440411",
+  "name": "Meat - other, mixed or unspecified",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "This category includes other, mixed, or unspecified types of meat not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440412",
+  "name": "Meat products - pork hams (Parma, Serrano, Iberico, York etc.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Pork hams include cured and processed pork products such as Parma, Serrano, and Iberico hams."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440413",
+  "name": "Meat products - sausages (fuet, chorizo, salame etc.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Sausages include various types of processed meat products such as fuet, chorizo, and salame."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440414",
+  "name": "Meat products and meat preparations - other",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "This category includes other meat products and preparations not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440415",
+  "name": "Meat, minced, ground - bovine (beef, veal, cow)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Minced or ground bovine meat includes beef and veal, commonly used in burgers and meatballs."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440416",
+  "name": "Meat, minced, ground - ovine (lamb, mutton, sheep)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Minced or ground ovine meat includes lamb and mutton, used in various dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440417",
+  "name": "Meat, minced, ground - porcine (pork, pig)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Minced or ground porcine meat includes pork, used in sausages and meatballs."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440418",
+  "name": "Meat, minced, ground - equidae (horse)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Minced or ground equidae meat includes horse meat, used in certain cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440419",
+  "name": "Meat, minced, ground - mixed or unspecified",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "This category includes mixed or unspecified types of minced or ground meat."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440420",
+  "name": "Offal - bovine (beef, veal, cow)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Bovine offal includes internal organs and other parts of cattle, used in various dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440421",
+  "name": "Offal - caprine (goat, kid)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Caprine offal includes internal organs and other parts of goats, used in certain cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440422",
+  "name": "Offal - equidae (horse)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Equidae offal includes internal organs and other parts of horses, used in certain dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440423",
+  "name": "Offal - ovine (lamb, mutton, sheep)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Ovine offal includes internal organs and other parts of sheep, used in various cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440424",
+  "name": "Offal - porcine (pork, pig)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Porcine offal includes internal organs and other parts of pigs, used in dishes such as haggis."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440425",
+  "name": "Offal - deer, including reindeer",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Deer offal includes internal organs and other parts of deer, used in certain cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440426",
+  "name": "Offal - rabbit or hare",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "Rabbit and hare offal includes internal organs and other parts, used in various dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440427",
+  "name": "Offal - mixed or unspecified",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440401",
+  "group_name": "Meat and Meat Products (excluding poultry)",
+  "description": "This category includes mixed or unspecified types of offal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440428",
+  "name": "Poultry Meat and Poultry Products",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "This group includes meat and products derived from poultry such as chicken, turkey, and duck."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440429",
+  "name": "Meat - chicken",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Chicken meat is one of the most widely consumed poultry meats globally."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440430",
+  "name": "Meat - turkey",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Turkey meat is commonly consumed, especially during festive seasons."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440431",
+  "name": "Meat - duck",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Duck meat is known for its rich flavor and is used in various cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440432",
+  "name": "Meat - goose",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Goose meat is often consumed during special occasions and is known for its rich taste."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440433",
+  "name": "Meat - guinea fowl",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Guinea fowl meat is lean and has a gamey flavor, often used in gourmet dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440434",
+  "name": "Meat - pheasant",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Pheasant meat is considered a delicacy and is often used in fine dining."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440435",
+  "name": "Meat - pigeon",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Pigeon meat, also known as squab, is tender and used in various culinary dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440436",
+  "name": "Meat - other game birds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "This category includes meat from other game birds not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440437",
+  "name": "Poultry meat products - sausages",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Poultry sausages are processed meat products made from chicken, turkey, or other poultry."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440438",
+  "name": "Poultry meat products - other (pâté, burgers, etc.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "This category includes other poultry meat products such as pâté and burgers."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440439",
+  "name": "Meat, minced, ground - chicken",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Minced or ground chicken meat is commonly used in dishes like burgers and meatballs."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440440",
+  "name": "Meat, minced, ground - turkey",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Minced or ground turkey meat is a lean alternative to beef and is used in various dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440441",
+  "name": "Eggs",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Eggs are a versatile food product derived from poultry, commonly used in cooking and baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440442",
+  "name": "Eggs - dried/powdered/liquid",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Dried, powdered, or liquid eggs are processed forms of eggs used in food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440443",
+  "name": "Offal - chicken",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Chicken offal includes internal organs and other parts, used in various dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440444",
+  "name": "Offal - turkey",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Turkey offal includes internal organs and other parts, used in certain cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440445",
+  "name": "Offal - duck",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Duck offal includes internal organs and other parts, used in various dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440446",
+  "name": "Offal - goose",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Goose offal includes internal organs and other parts, used in certain cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440447",
+  "name": "Offal - pheasant",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Pheasant offal includes internal organs and other parts, used in gourmet dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440448",
+  "name": "Offal - pigeon",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "Pigeon offal includes internal organs and other parts, used in various culinary dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440449",
+  "name": "Offal - other game birds",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440428",
+  "group_name": "Poultry Meat and Poultry Products",
+  "description": "This category includes offal from other game birds not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440450",
+  "name": "Products of Animal Origin (other)",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440450",
+  "group_name": "Products of Animal Origin (other)",
+  "description": "This group includes other products derived from animals, such as honey, gelatine, and snails."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440451",
+  "name": "Meat - snails",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440450",
+  "group_name": "Products of Animal Origin (other)",
+  "description": "Snail meat, also known as escargot, is considered a delicacy in many cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440452",
+  "name": "Gelatine",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440450",
+  "group_name": "Products of Animal Origin (other)",
+  "description": "Gelatine is a protein derived from animal collagen, used in food and pharmaceuticals."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440453",
+  "name": "Honey",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440450",
+  "group_name": "Products of Animal Origin (other)",
+  "description": "Honey is a natural sweetener produced by bees, used in various food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440454",
+  "name": "Royal jelly, bee pollen, propolis",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440450",
+  "group_name": "Products of Animal Origin (other)",
+  "description": "Royal jelly, bee pollen, and propolis are bee products used in health supplements and natural remedies."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440455",
+  "name": "Bee larvae and other insects",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440450",
+  "group_name": "Products of Animal Origin (other)",
+  "description": "Bee larvae and other insects are consumed in certain cultures and used in traditional medicine."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440456",
+  "name": "Products of Animal Origin (Dairy)",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "This group includes dairy products derived from animals such as cows, goats, and sheep."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440457",
+  "name": "Milk - bovine (cow)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Bovine milk, derived from cows, is one of the most widely consumed types of milk."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440458",
+  "name": "Milk - caprine (goat)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Caprine milk, derived from goats, is known for its digestibility and is often used in cheese production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440459",
+  "name": "Milk - ovine (sheep)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Ovine milk, derived from sheep, is rich in fat and protein, often used in cheese and yogurt production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440460",
+  "name": "Milk products - condensed milk",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Condensed milk is a thick, sweetened milk product used in desserts and baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440461",
+  "name": "Milk products - cream",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Cream is a high-fat dairy product used in cooking, baking, and as a topping."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440462",
+  "name": "Milk products - butter and ghee",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Butter and ghee are dairy fats used in cooking, baking, and as spreads."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440463",
+  "name": "Milk products - cheese",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Cheese is a dairy product made from milk, available in various textures and flavors."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440464",
+  "name": "Milk products - yoghurt",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Yoghurt is a fermented dairy product, often consumed as a snack or used in cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440465",
+  "name": "Milk products - milk powder",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Milk powder is a dried form of milk, used in baking, cooking, and as a milk substitute."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440466",
+  "name": "Milk products - whey powder",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Whey powder is a byproduct of cheese production, used in protein supplements and food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440467",
+  "name": "Milk products - ice-cream (& similar frozen confections)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Ice-cream and similar frozen confections are sweetened dairy products, often consumed as desserts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440468",
+  "name": "Milk products - milk-based beverages",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "Milk-based beverages include products like milkshakes, flavored milk, and dairy smoothies."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440469",
+  "name": "Milk products - others (e.g. caseins)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440456",
+  "group_name": "Products of Animal Origin (Dairy)",
+  "description": "This category includes other dairy products such as caseins, used in food and industrial applications."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440470",
+  "name": "Seafood",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440470",
+  "group_name": "Seafood",
+  "description": "This group includes various types of seafood, such as fish, crustaceans, and molluscs."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440471",
+  "name": "Fish - fresh/frozen",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440470",
+  "group_name": "Seafood",
+  "description": "Fresh or frozen fish is a common seafood product, consumed worldwide."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440472",
+  "name": "Fish - smoked/cured/dried or otherwise preserved",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440470",
+  "group_name": "Seafood",
+  "description": "This category includes fish that has been smoked, cured, dried, or otherwise preserved."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440473",
+  "name": "Crustaceans (crab, shrimps, prawns etc.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440470",
+  "group_name": "Seafood",
+  "description": "Crustaceans include seafood such as crabs, shrimps, and prawns, commonly consumed worldwide."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440474",
+  "name": "Bivalve molluscs (mussels, clams, shellfish)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440470",
+  "group_name": "Seafood",
+  "description": "Bivalve molluscs include seafood such as mussels, clams, and other shellfish."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440475",
+  "name": "Cephalopods (octopus, squid etc.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440470",
+  "group_name": "Seafood",
+  "description": "Cephalopods include seafood such as octopus and squid, used in various cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440476",
+  "name": "Seaweed, algae, carrageenan",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440470",
+  "group_name": "Seafood",
+  "description": "Seaweed, algae, and carrageenan are marine plants used in food and industrial applications."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440477",
+  "name": "Surimi",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440470",
+  "group_name": "Seafood",
+  "description": "Surimi is a processed seafood product, often used to make imitation crab meat."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440478",
+  "name": "Other sea food",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440470",
+  "group_name": "Seafood",
+  "description": "This category includes other types of seafood not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440479",
+  "name": "Oils and Fats",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "This group includes oils and fats derived from both animal and plant sources."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440480",
+  "name": "Fat - bovine (beef, veal, cow)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Bovine fat is derived from cattle and is used in cooking and food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440481",
+  "name": "Fat - caprine (goat, kid)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Caprine fat is derived from goats and is used in certain cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440482",
+  "name": "Fat - equidae (horse)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Equidae fat is derived from horses and is used in certain culinary applications."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440483",
+  "name": "Fat - ovine (lamb, mutton, sheep)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Ovine fat is derived from sheep and is used in cooking and food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440484",
+  "name": "Fat - porcine (pork, pig)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Porcine fat is derived from pigs and is commonly used in cooking and food processing."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440485",
+  "name": "Fat - deer, including reindeer",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Deer fat, including reindeer fat, is used in certain cuisines and traditional dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440486",
+  "name": "Fat - rabbit or hare",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Rabbit and hare fat are used in cooking, particularly in dishes featuring these meats."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440487",
+  "name": "Fat - chicken",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Chicken fat is derived from poultry and is used in cooking and food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440488",
+  "name": "Fat - turkey",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Turkey fat is derived from poultry and is used in cooking and food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440489",
+  "name": "Fat - duck",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Duck fat is derived from poultry and is known for its rich flavor, often used in gourmet cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440490",
+  "name": "Fat - goose",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Goose fat is derived from poultry and is used in cooking, particularly in traditional dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440491",
+  "name": "Fat - pheasant",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Pheasant fat is derived from game birds and is used in certain culinary applications."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440492",
+  "name": "Fat - pigeon",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Pigeon fat is derived from game birds and is used in certain cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440493",
+  "name": "Fat - mixed animal fats",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "This category includes mixed animal fats, used in cooking and food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440494",
+  "name": "Milk fat",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Milk fat, also known as butterfat, is derived from dairy products and is used in cooking and baking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440495",
+  "name": "Olive oil (excluding infused oils)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Olive oil is a plant-based oil derived from olives, widely used in cooking and salad dressings."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440496",
+  "name": "Palm oil",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Palm oil is a vegetable oil derived from the fruit of oil palms, used in food production and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440497",
+  "name": "Pepper oil",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Pepper oil is derived from peppercorns and is used as a flavoring agent in cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440498",
+  "name": "Rapeseed (canola) oil",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Rapeseed oil, also known as canola oil, is a vegetable oil used in cooking and food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440499",
+  "name": "Soybean oil",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Soybean oil is a vegetable oil derived from soybeans, widely used in cooking and food processing."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440500",
+  "name": "Sunflower oil",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Sunflower oil is a vegetable oil derived from sunflower seeds, used in cooking and food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440501",
+  "name": "Other vegetable and fruit oils, fats and infused oils",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "This category includes other vegetable and fruit oils, fats, and infused oils not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440502",
+  "name": "Fish oil",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440479",
+  "group_name": "Oils and Fats",
+  "description": "Fish oil is derived from the tissues of oily fish and is used in dietary supplements and food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440503",
+  "name": "Canned Foods",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440503",
+  "group_name": "Canned Foods",
+  "description": "This group includes various types of canned foods, such as fruits, vegetables, meats, and seafood."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440504",
+  "name": "Canned foods - fruit",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440503",
+  "group_name": "Canned Foods",
+  "description": "Canned fruits are preserved fruits that are often used in desserts, snacks, and cooking."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440505",
+  "name": "Canned foods - meals",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440503",
+  "group_name": "Canned Foods",
+  "description": "Canned meals are pre-prepared meals that are preserved in cans for convenience."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440506",
+  "name": "Canned foods - meat",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440503",
+  "group_name": "Canned Foods",
+  "description": "Canned meats are preserved meats that are often used in sandwiches, stews, and other dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440507",
+  "name": "Canned foods - seafood",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440503",
+  "group_name": "Canned Foods",
+  "description": "Canned seafood includes preserved fish, shellfish, and other marine products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440508",
+  "name": "Canned foods - soups",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440503",
+  "group_name": "Canned Foods",
+  "description": "Canned soups are pre-prepared soups that are preserved in cans for convenience."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440509",
+  "name": "Canned foods - vegetables",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440503",
+  "group_name": "Canned Foods",
+  "description": "Canned vegetables are preserved vegetables that are often used in cooking and as side dishes."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440510",
+  "name": "Canned foods - other",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440503",
+  "group_name": "Canned Foods",
+  "description": "This category includes other types of canned foods not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440511",
+  "name": "Canned beverages",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440503",
+  "group_name": "Canned Foods",
+  "description": "Canned beverages include drinks such as sodas, juices, and energy drinks that are preserved in cans."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440512",
+  "name": "Beverages",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "This group includes various types of beverages, such as juices, wines, beers, and spirits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440513",
+  "name": "Apple juice & concentrate",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Apple juice and concentrate are popular beverages made from apples."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440514",
+  "name": "Orange juice & concentrate",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Orange juice and concentrate are widely consumed beverages made from oranges."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440515",
+  "name": "Other or mixed fruit juices",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "This category includes other or mixed fruit juices, such as pineapple, grape, and berry juices."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440516",
+  "name": "Other concentrated fruit juices",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "This category includes concentrated fruit juices other than apple and orange."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440517",
+  "name": "Vegetable juices",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Vegetable juices are beverages made from vegetables, often consumed for their health benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440518",
+  "name": "Fruit nectars",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Fruit nectars are beverages made from fruit pulp, often thicker and sweeter than regular fruit juices."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440519",
+  "name": "Fruit-flavoured soft drinks (not canned)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Fruit-flavored soft drinks are carbonated beverages with fruit flavors, not preserved in cans."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440520",
+  "name": "Fruit-flavoured alcoholic drinks (not canned)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Fruit-flavored alcoholic drinks include beverages such as fruit wines and cocktails, not preserved in cans."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440521",
+  "name": "Wines (red, white, rose, sparkling, fortified)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Wines are alcoholic beverages made from fermented grapes, available in various types such as red, white, and sparkling."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440522",
+  "name": "Beers (not canned)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Beers are alcoholic beverages made from fermented grains, not preserved in cans."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440523",
+  "name": "Cider, perry (not canned)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Cider and perry are alcoholic beverages made from fermented apples and pears, respectively, not preserved in cans."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440524",
+  "name": "Mead",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Mead is an alcoholic beverage made from fermented honey and water, often flavored with fruits or spices."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440525",
+  "name": "Spirits and liqueurs",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Spirits and liqueurs are alcoholic beverages made by distilling fermented grains, fruits, or other ingredients."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440526",
+  "name": "Mineral water",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Mineral water is water that contains minerals and is often consumed for its health benefits."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440527",
+  "name": "Water intended for human consumption",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "This category includes water that is safe and intended for human consumption."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440528",
+  "name": "Soluble coffee (instant coffee)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "Soluble coffee, also known as instant coffee, is a quick and convenient way to prepare coffee."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440529",
+  "name": "Other beverages (not canned) - liquid",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "This category includes other liquid beverages not specifically listed and not preserved in cans."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440530",
+  "name": "Other beverages (not canned) - powder",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440512",
+  "group_name": "Beverages",
+  "description": "This category includes other powdered beverages not specifically listed and not preserved in cans."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440531",
+  "name": "Processed Foods",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "This group includes various types of processed foods, such as sauces, soups, and ready meals."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440532",
+  "name": "Hydrolysed vegetable protein",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Hydrolyzed vegetable protein is a processed food ingredient used as a flavor enhancer."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440533",
+  "name": "Soy sauce",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Soy sauce is a fermented condiment made from soybeans, wheat, and salt, used in various cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440534",
+  "name": "Jams, jellies and marmalades and other processed fruit-based foods",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "This category includes fruit-based processed foods such as jams, jellies, and marmalades."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440535",
+  "name": "Sugar-based confectionery",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Sugar-based confectionery includes sweets and candies made primarily from sugar."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440536",
+  "name": "Chocolate-based confectionery (except spreads)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Chocolate-based confectionery includes sweets and candies made primarily from chocolate."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440537",
+  "name": "Confectionery - other",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "This category includes other types of confectionery not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440538",
+  "name": "Vinegar",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Vinegar is a liquid condiment made from the fermentation of ethanol, used in cooking and as a preservative."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440539",
+  "name": "Mustard",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Mustard is a condiment made from the seeds of the mustard plant, used in various cuisines."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440540",
+  "name": "Pickles, chutney (various, usually in jars)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Pickles and chutneys are preserved foods made from fruits or vegetables, often used as condiments."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440541",
+  "name": "Tomato sauce, paste, puree, tomatade, ketchup",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "This category includes processed tomato products such as sauce, paste, puree, and ketchup."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440542",
+  "name": "Other sauces (various, usually in jars)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "This category includes other sauces not specifically listed, usually preserved in jars."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440543",
+  "name": "Soups (chilled)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Chilled soups are pre-prepared soups that are kept refrigerated for freshness."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440544",
+  "name": "Soup mixes (dry)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Dry soup mixes are pre-packaged mixes that require the addition of water or other liquids to prepare."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440545",
+  "name": "Spreads and similar foods (except meat or nut)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "This category includes spreads and similar foods, excluding those made from meat or nuts."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440546",
+  "name": "Liquorice extract",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Liquorice extract is a flavoring agent derived from the root of the liquorice plant, used in confectionery and beverages."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440547",
+  "name": "Frozen ready meals",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Frozen ready meals are pre-prepared meals that are frozen for convenience and later reheating."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440548",
+  "name": "Part-cooked chilled ready meals",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Part-cooked chilled ready meals are pre-prepared meals that are partially cooked and kept refrigerated."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440549",
+  "name": "Prepared fresh fruit (single or mixed)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Prepared fresh fruit includes single or mixed fruits that are pre-cut and packaged for convenience."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440550",
+  "name": "Prepared fresh vegetables (veg spagetti etc)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Prepared fresh vegetables include pre-cut and packaged vegetables, such as vegetable spaghetti."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440551",
+  "name": "Gluten-free products",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Gluten-free products are processed foods that do not contain gluten, suitable for individuals with gluten intolerance."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440552",
+  "name": "Other prepared foods",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "This category includes other prepared foods not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440553",
+  "name": "Snack foods",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Snack foods include processed foods such as chips, crackers, and other ready-to-eat snacks."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440554",
+  "name": "Dry ingredient mixes (batter, breading, custard, muffin etc.) and dough",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440531",
+  "group_name": "Processed Foods",
+  "description": "Dry ingredient mixes include pre-packaged mixes for batters, breading, custard, muffins, and dough."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440555",
+  "name": "Sugars",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440555",
+  "group_name": "Sugars",
+  "description": "This group includes various types of sugars and sugar-based products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440556",
+  "name": "Sugars - as defined in Directive 2001/111/EC, treacle, molasses and other sugars",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440555",
+  "group_name": "Sugars",
+  "description": "This category includes sugars as defined in Directive 2001/111/EC, as well as treacle, molasses, and other sugar products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440557",
+  "name": "Sugars - syrups, flavoured syrups and similar products",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440555",
+  "group_name": "Sugars",
+  "description": "This category includes syrups, flavored syrups, and similar sugar-based products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440558",
+  "name": "Chemicals Used in Foods",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440558",
+  "group_name": "Chemicals Used in Foods",
+  "description": "This group includes various chemicals used in food production, such as colorings, enzymes, and flavorings."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440559",
+  "name": "Ascorbic acid (vitamin C)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440558",
+  "group_name": "Chemicals Used in Foods",
+  "description": "Ascorbic acid, also known as vitamin C, is used as a preservative and antioxidant in food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440560",
+  "name": "Chemicals excl. colourings, enzymes & flavourings",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440558",
+  "group_name": "Chemicals Used in Foods",
+  "description": "This category includes chemicals used in food production, excluding colorings, enzymes, and flavorings."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440561",
+  "name": "Colourings other than synthetic colourings",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440558",
+  "group_name": "Chemicals Used in Foods",
+  "description": "This category includes natural and non-synthetic colorings used in food production."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440562",
+  "name": "Synthetic colourings",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440558",
+  "group_name": "Chemicals Used in Foods",
+  "description": "Synthetic colorings are artificial color additives used in food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440563",
+  "name": "Enzymes",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440558",
+  "group_name": "Chemicals Used in Foods",
+  "description": "Enzymes are biological catalysts used in food production to improve texture, flavor, and shelf life."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440564",
+  "name": "Natural flavourings",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440558",
+  "group_name": "Chemicals Used in Foods",
+  "description": "Natural flavorings are derived from natural sources and used to enhance the taste of food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440565",
+  "name": "Synthetic flavourings",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440558",
+  "group_name": "Chemicals Used in Foods",
+  "description": "Synthetic flavorings are artificial flavor additives used in food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440566",
+  "name": "Salt (including sea salt and flavoured salts)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440558",
+  "group_name": "Chemicals Used in Foods",
+  "description": "Salt, including sea salt and flavored salts, is used as a seasoning and preservative in food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440567",
+  "name": "Novel Foods",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440567",
+  "group_name": "Novel Foods",
+  "description": "This group includes novel foods, which are foods that were not widely consumed in the EU before May 1997."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440568",
+  "name": "Nangai nuts (Canarium indicum L.)",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440567",
+  "group_name": "Novel Foods",
+  "description": "Nangai nuts are a type of novel food derived from the Canarium indicum tree."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440569",
+  "name": "Noni juice",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440567",
+  "group_name": "Novel Foods",
+  "description": "Noni juice is a novel food product made from the fruit of the Morinda citrifolia tree."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440570",
+  "name": "Stevia rebaudiana Bertoni",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440567",
+  "group_name": "Novel Foods",
+  "description": "Stevia rebaudiana Bertoni is a plant used as a natural sweetener in food products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440571",
+  "name": "Other novel foods",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440567",
+  "group_name": "Novel Foods",
+  "description": "This category includes other novel foods not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440572",
+  "name": "Food and Dietary Supplements",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440572",
+  "group_name": "Food and Dietary Supplements",
+  "description": "This group includes food and dietary supplements, which are products intended to supplement the diet."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440573",
+  "name": "Food and dietary supplements",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440572",
+  "group_name": "Food and Dietary Supplements",
+  "description": "This category includes various food and dietary supplements, such as vitamins, minerals, and herbal products."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440574",
+  "name": "Feedstuff",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This group includes feed materials and additives used in animal feed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440575",
+  "name": "Feed materials - animal products",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from animal products, such as meat and bone meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440576",
+  "name": "Feed materials - cereal-based",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from cereals, such as corn and wheat."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440577",
+  "name": "Feed materials - crustaceans",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from crustaceans, such as shrimp and crab meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440578",
+  "name": "Feed materials - fish meal",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "Fish meal is a feed material derived from fish, used as a protein source in animal feed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440579",
+  "name": "Feed materials - groundnuts",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from groundnuts, such as peanut meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440580",
+  "name": "Feed materials - maize & corn meal",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from maize and corn, such as corn gluten meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440581",
+  "name": "Feed materials - milk & whey",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from milk and whey, such as dried whey powder."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440582",
+  "name": "Feed materials - palm products",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from palm products, such as palm kernel meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440583",
+  "name": "Feed materials - poultry & feather meal",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from poultry and feathers, such as poultry meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440584",
+  "name": "Feed materials - rapeseed & meal",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from rapeseed, such as rapeseed meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440585",
+  "name": "Feed materials - soy beans & meal",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from soybeans, such as soybean meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440586",
+  "name": "Feed materials - sugar beet pulp",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "Sugar beet pulp is a feed material derived from sugar beet processing, used as a fiber source in animal feed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440587",
+  "name": "Feed materials - sunflower seed & meal",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes feed materials derived from sunflower seeds, such as sunflower meal."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440588",
+  "name": "Feed materials - other",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "This category includes other feed materials not specifically listed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440589",
+  "name": "Feed additives",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "Feed additives are substances added to animal feed to improve its nutritional value or shelf life."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440590",
+  "name": "Complementary feed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "Complementary feed is a type of animal feed that is used to supplement the main diet."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440591",
+  "name": "Complete feed, pet food",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "Complete feed and pet food are formulated to provide all the necessary nutrients for animals."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440592",
+  "name": "Premixtures for use in feed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "Premixtures are blends of feed additives used to enrich animal feed."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440593",
+  "name": "Compound feed",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440574",
+  "group_name": "Feedstuff",
+  "description": "Compound feed is a mixture of various feed materials and additives, formulated for specific animal needs."
+}
+{
+  "id": "9898a7b4-194e-43d1-8eec-df9b21ad7722",
+  "name": "Articles in Contact with Foodstuffs",
+  "type": "commodity_group",
+  "group_id": "550e8400-e29b-41d4-a716-446655440594",
+  "group_name": "Articles in Contact with Foodstuffs",
+  "description": "This group includes articles that come into contact with food, such as packaging materials and kitchenware."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440595",
+  "name": "Ceramic articles",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440594",
+  "group_name": "Articles in Contact with Foodstuffs",
+  "description": "Ceramic articles include items such as plates, bowls, and mugs that come into contact with food."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440596",
+  "name": "Nylon articles",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440594",
+  "group_name": "Articles in Contact with Foodstuffs",
+  "description": "Nylon articles include items such as kitchen utensils and food storage containers."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440597",
+  "name": "Melamine articles",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440594",
+  "group_name": "Articles in Contact with Foodstuffs",
+  "description": "Melamine articles include items such as plates and bowls made from melamine resin."
+}
+{
+  "id": "550e8400-e29b-41d4-a716-446655440598",
+  "name": "Other articles",
+  "type": "subcommodity",
+  "group_id": "550e8400-e29b-41d4-a716-446655440594",
+  "group_name": "Articles in Contact with Foodstuffs",
+  "description": "This category includes other articles that come into contact with food, not specifically listed."
+}
