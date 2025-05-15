@@ -1,0 +1,4442 @@
+[
+  {
+    "hazard_id": "66af2add-29aa-4db2-9269-1c68ad1af88d",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Milk",
+    "description": "",
+    "sources": [
+      "Dairy products",
+      "Baked goods",
+      "Processed foods"
+    ],
+    "search_terms": [
+      "dairy allergy",
+      "lactose",
+      "casein",
+      "whey",
+      "milk protein",
+      "dairy intolerance"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b6c045c0-8e01-470d-857f-778981c469a3",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Eggs",
+    "description": "",
+    "sources": [
+      "Baked goods",
+      "Mayonnaise",
+      "Pasta",
+      "Some vaccines"
+    ],
+    "search_terms": [
+      "egg allergy",
+      "albumin",
+      "ovalbumin",
+      "egg white",
+      "egg yolk",
+      "egg protein"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "70ea3faf-4465-4fd9-b306-b76baae04512",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Fish",
+    "description": "",
+    "sources": [
+      "Fish products",
+      "Fish sauce",
+      "Worcestershire sauce"
+    ],
+    "search_terms": [
+      "fish allergy",
+      "fish protein",
+      "seafood allergy",
+      "finfish",
+      "piscine protein"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "fb5d3037-c242-4620-86eb-fc948ae33f45",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Crustacean shellfish",
+    "description": "",
+    "sources": [
+      "Shrimp",
+      "Crab",
+      "Lobster",
+      "Some fish stocks and flavorings"
+    ],
+    "search_terms": [
+      "shellfish allergy",
+      "shrimp allergy",
+      "crab allergy",
+      "lobster allergy",
+      "crustacean",
+      "prawn"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "f4acc3f7-c500-47c3-9a51-112aa70b50d6",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Tree nuts",
+    "description": "",
+    "sources": [
+      "Almonds",
+      "Walnuts",
+      "Pecans",
+      "Cashews",
+      "Pistachios"
+    ],
+    "search_terms": [
+      "nut allergy",
+      "almond allergy",
+      "walnut allergy",
+      "hazelnut",
+      "pecan",
+      "cashew",
+      "pistachio"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "f11b662c-237f-4eda-b16f-e4ee135f81d8",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Peanuts",
+    "description": "",
+    "sources": [
+      "Peanut butter",
+      "Many baked goods",
+      "Asian cuisine"
+    ],
+    "search_terms": [
+      "peanut allergy",
+      "groundnut",
+      "arachis",
+      "goober",
+      "legume allergy"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "ade108ad-2c45-4704-88a4-87cc0906024e",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Wheat",
+    "description": "",
+    "sources": [
+      "Bread",
+      "Pasta",
+      "Cereals",
+      "Many processed foods"
+    ],
+    "search_terms": [
+      "wheat allergy",
+      "gluten",
+      "cereal allergy",
+      "wheat protein",
+      "flour",
+      "wheat sensitivity"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "c314002b-9e32-4dd4-b29f-73d99fbedf56",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Soybeans",
+    "description": "",
+    "sources": [
+      "Tofu",
+      "Soy sauce",
+      "Textured vegetable protein",
+      "Many processed foods"
+    ],
+    "search_terms": [
+      "soy allergy",
+      "soya",
+      "soy protein",
+      "legume allergy",
+      "edamame",
+      "soybean oil"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "a9c87675-64b0-4b5b-8f2e-4c7368810d66",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Sesame",
+    "description": "",
+    "sources": [
+      "Tahini",
+      "Hummus",
+      "Baked goods",
+      "Asian cuisine"
+    ],
+    "search_terms": [
+      "sesame allergy",
+      "tahini",
+      "sesame seed",
+      "sesame oil",
+      "sesamum indicum"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "e8e7a2fe-2924-4d6c-9a6d-3cc5c43eb32d",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Celery",
+    "description": "",
+    "sources": [
+      "Soups",
+      "Salads",
+      "Spice mixes"
+    ],
+    "search_terms": [
+      "celery allergy",
+      "celeriac",
+      "celery root",
+      "celery seed",
+      "apium graveolens"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "af7280a1-4b0d-4105-914e-2f899ea3de04",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Mustard",
+    "description": "",
+    "sources": [
+      "Condiments",
+      "Salad dressings",
+      "Processed meats"
+    ],
+    "search_terms": [
+      "mustard allergy",
+      "mustard seed",
+      "mustard powder",
+      "brassica",
+      "sinapis"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "5a7f4d8b-3e2c-4a9f-b0e1-9d3f6b2a1c4e",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Lupin flour",
+    "description": "Regulated allergen in gluten-free products with cross-reactivity to peanuts",
+    "sources": [
+      "Protein-enriched flour",
+      "Meat substitutes",
+      "Vegan baked goods"
+    ],
+    "search_terms": [
+      "lupin allergy",
+      "legume cross-reactivity",
+      "hidden allergen",
+      "EU allergen"
+    ],
+    "tags": [
+      "emerging",
+      "cross-reactive"
+    ]
+  },
+  {
+    "hazard_id": "8b2c9d1e-4f3a-4e7d-b0c5-6a1e3f8d2b4c",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Undeclared added sugars",
+    "description": "Misrepresentation of sweetener content in 'no sugar added' products",
+    "sources": [
+      "Flavored yogurts",
+      "Protein shakes",
+      "Granola products"
+    ],
+    "search_terms": [
+      "sugar fraud",
+      "hidden sweeteners",
+      "nutrition label violations"
+    ],
+    "tags": [
+      "labeling",
+      "consumer deception"
+    ]
+  },
+  {
+    "hazard_id": "3e6f8a2d-1b4c-4e9f-a0d7-5b2c8f3e1d6a",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "PFAS in food packaging",
+    "description": "Migration of perfluoroalkyl substances from packaging materials",
+    "sources": [
+      "Grease-resistant wrappers",
+      "Microwave popcorn bags",
+      "Fast food containers"
+    ],
+    "search_terms": [
+      "forever chemicals",
+      "PFOA",
+      "PFOS",
+      "packaging migrants"
+    ],
+    "tags": [
+      "chemical",
+      "chronic exposure"
+    ]
+  },
+  {
+    "hazard_id": "7d4e1f2a-8b3c-4d9e-a0f6-2b5c8e1d3f4a",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacillus cereus (emetic strain)",
+    "description": "Heat-stable toxin causing rapid-onset vomiting in starchy foods",
+    "sources": [
+      "Temperature-abused rice",
+      "Pasta salads",
+      "Potato dishes"
+    ],
+    "search_terms": [
+      "fried rice syndrome",
+      "emetic toxin",
+      "short-incubation food poisoning"
+    ],
+    "tags": [
+      "heat-stable",
+      "rapid onset"
+    ]
+  },
+  {
+    "hazard_id": "2a5c8e3d-1f4b-4e9a-a0d7-6b3f2c8e1d4f",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Organic fraud",
+    "description": "Conventional products misrepresented as organic",
+    "sources": [
+      "Imported produce",
+      "Online food retailers",
+      "Bulk commodities"
+    ],
+    "search_terms": [
+      "fake organic",
+      "NOP violations",
+      "pesticide residue fraud"
+    ],
+    "tags": [
+      "economic fraud",
+      "certification"
+    ]
+  },
+  {
+    "hazard_id": "9e3f6d2a-1b4c-4e8f-a0d7-5c2b8f3e1d6a",
+    "category_id": "2f380571-11f6-45ea-b370-fd5f9cd4b318",
+    "name": "Ethylene oxide residues",
+    "description": "Banned fumigant detected in imported food ingredients",
+    "sources": [
+      "Sesame seeds",
+      "Spice blends",
+      "Stabilizers"
+    ],
+    "search_terms": [
+      "ETO contamination",
+      "fumigant residues",
+      "EU border rejections"
+    ],
+    "tags": [
+      "banned substance",
+      "carcinogen"
+    ]
+  },
+  {
+    "hazard_id": "4d7e2f1a-8b3c-4e9d-a0f6-2c5b8e1d3f4a",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Insect protein allergens",
+    "description": "Cross-reactivity with crustacean and dust mite allergies",
+    "sources": [
+      "Protein bars",
+      "Sustainable foods",
+      "Novel ingredients"
+    ],
+    "search_terms": [
+      "cricket flour allergy",
+      "entomophagy risks",
+      "arthropod cross-reactivity"
+    ],
+    "tags": [
+      "emerging",
+      "cross-reactive"
+    ]
+  },
+  {
+    "hazard_id": "62f83f0f-b4f1-4887-b816-c3df741fbbde",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Molluscs",
+    "description": "",
+    "sources": [
+      "Clams",
+      "Mussels",
+      "Oysters",
+      "Scallops"
+    ],
+    "search_terms": [
+      "mollusc allergy",
+      "oyster allergy",
+      "mussel allergy",
+      "clam allergy",
+      "scallop",
+      "squid",
+      "octopus"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "2e167955-ba5f-4d36-a103-89d06e425492",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Sulfites",
+    "description": "",
+    "sources": [
+      "Wine",
+      "Dried fruits",
+      "Preserved foods"
+    ],
+    "search_terms": [
+      "sulphites",
+      "sulfur dioxide",
+      "E220",
+      "preservative allergy",
+      "SO2",
+      "metabisulfite"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "705483e7-287e-437e-8b52-2a7b1ba524e9",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Buckwheat",
+    "description": "An emerging allergen in gluten-free products, unrelated to wheat despite its name.",
+    "sources": [
+      "Gluten-free baked goods",
+      "Soba noodles",
+      "Pancakes",
+      "Plant-based meats"
+    ],
+    "search_terms": [
+      "buckwheat allergy",
+      "fagopyrum esculentum",
+      "gluten-free allergen",
+      "pseudo-cereal allergy"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "d5b85b7a-e1de-4809-9314-f7c1817db9df",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Pea Protein",
+    "description": "Increasingly used in plant-based foods; may cross-react with peanut allergies.",
+    "sources": [
+      "Vegan protein powders",
+      "Plant-based meats",
+      "Dairy-free cheeses"
+    ],
+    "search_terms": [
+      "pea protein allergy",
+      "legume cross-reactivity",
+      "pisum sativum",
+      "plant-protein allergy"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "981ac1ba-265f-4aed-b37e-1bd2ec3c6168",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Mustard Oil",
+    "description": "Distinct from mustard seeds; common in South Asian cuisine and topical use.",
+    "sources": [
+      "Curries",
+      "Pickles",
+      "Massage oils (cross-contact risk)"
+    ],
+    "search_terms": [
+      "mustard oil allergy",
+      "brassica juncea oil",
+      "essential oil allergen"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "da15f31d-834e-45aa-8af9-de7cdbffa189",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Corn (Maize)",
+    "description": "Often overlooked but can trigger IgE-mediated reactions.",
+    "sources": [
+      "Corn syrup",
+      "Tortillas",
+      "Processed snacks",
+      "Gluten-free flour blends"
+    ],
+    "search_terms": [
+      "corn allergy",
+      "maize allergy",
+      "zea mays",
+      "corn-derived ingredients"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "cbe1ec4d-0696-44a4-b7d6-0ab7e6fcf8ee",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Kiwi",
+    "description": "Common allergenic fruit with cross-reactivity to latex and birch pollen.",
+    "sources": [
+      "Fresh fruit",
+      "Fruit salads",
+      "Smoothies",
+      "Desserts"
+    ],
+    "search_terms": [
+      "kiwi allergy",
+      "actinidia deliciosa",
+      "oral allergy syndrome",
+      "latex-fruit syndrome"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "05031589-38f7-4197-8582-2b4dceb35ecd",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Lentils",
+    "description": "Frequent allergen in Mediterranean/Middle Eastern diets.",
+    "sources": [
+      "Soups",
+      "Dals",
+      "Vegan burgers"
+    ],
+    "search_terms": [
+      "lentil allergy",
+      "lens culinaris",
+      "legume allergy"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "188c861a-cd54-4eae-96a1-7ca09d9ab472",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Nutrient imbalances",
+    "description": "Disproportionate levels of nutrients",
+    "sources": [
+      "Excessive sodium",
+      "Insufficient vitamins",
+      "Imbalanced macronutrients"
+    ],
+    "search_terms": [
+      "nutritional inadequacy",
+      "incorrect nutrient profile",
+      "excessive nutrients",
+      "nutrient deficiency",
+      "vitamin imbalance"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "cd0251af-c6fc-4b46-8620-f7ca865b700c",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Improper formulation",
+    "description": "Incorrect ingredient ratios or formulations",
+    "sources": [
+      "Infant formula with improper nutrient balance",
+      "Sports drinks with excessive sugar"
+    ],
+    "search_terms": [
+      "incorrect formulation",
+      "wrong recipe",
+      "formulation error",
+      "incorrect composition"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "ff153bb6-c910-4a0e-8231-e9a268159118",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Missing essential ingredients",
+    "description": "Absence of required components",
+    "sources": [
+      "Vitamin-fortified foods missing declared nutrients",
+      "Specialty medical foods lacking required elements"
+    ],
+    "search_terms": [
+      "missing ingredients",
+      "incomplete formulation",
+      "absent components",
+      "missing nutrients"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "54cbf7bf-f3d8-4f54-a83f-ca576354d480",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Excessive moisture content",
+    "description": "Water content above acceptable levels",
+    "sources": [
+      "Dried foods with excess moisture leading to spoilage",
+      "Meat products with water added beyond regulatory limits"
+    ],
+    "search_terms": [
+      "high moisture",
+      "water activity issues",
+      "excessive water content",
+      "humidity problems"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "f4515fff-57b9-400c-b19f-ddbe18563ab1",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Incorrect fat composition",
+    "description": "Fat content or composition that differs from specifications",
+    "sources": [
+      "Dairy products with fat content below labeled claims",
+      "Oils with incorrect fatty acid profiles"
+    ],
+    "search_terms": [
+      "wrong fat content",
+      "lipid profile error",
+      "incorrect oil blend",
+      "fat ratio problem"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Incorrect vitamin/mineral fortification",
+    "description": "Over- or under-fortification of vitamins/minerals beyond declared levels",
+    "sources": [
+      "Fortified cereals",
+      "Infant formula",
+      "Nutritional supplements"
+    ],
+    "search_terms": [
+      "vitamin overdose",
+      "mineral imbalance",
+      "fortification error",
+      "hypervitaminosis risk"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b2c3d4e5-f6g7-8901-2345-67890abcdef1",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Undisclosed preservative levels",
+    "description": "Preservatives (e.g., sulfites, nitrates) exceeding regulatory limits or undeclared",
+    "sources": [
+      "Processed meats",
+      "Dried fruits",
+      "Beverages"
+    ],
+    "search_terms": [
+      "hidden preservatives",
+      "excessive sulfites",
+      "undeclared nitrates",
+      "preservative non-compliance"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "c3d4e5f6-g7h8-9012-3456-7890abcdef12",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Protein adulteration",
+    "description": "Dilution of protein content with non-protein fillers (e.g., melamine, nitrogen-rich compounds)",
+    "sources": [
+      "Protein powders",
+      "Infant formula",
+      "Sports nutrition products"
+    ],
+    "search_terms": [
+      "protein fraud",
+      "nitrogen spiking",
+      "melamine scandal",
+      "fake protein content"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "d4e5f6g7-h8i9-0123-4567-890abcdef123",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Incorrect fatty acid profile",
+    "description": "Deviation from declared omega-3/omega-6 ratios or trans-fat levels",
+    "sources": [
+      "Cooking oils",
+      "Infant formula",
+      "Functional foods"
+    ],
+    "search_terms": [
+      "fatty acid mismatch",
+      "incorrect omega ratio",
+      "trans-fat undeclared",
+      "lipid profile error"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "e5f6g7h8-i9j0-1234-5678-90abcdef1234",
+    "category_id": "261afa0f-cf1a-42c9-ab62-20668c5b819b",
+    "name": "Fiber content misrepresentation",
+    "description": "Inaccurate soluble/insoluble fiber ratios or overstated total fiber content",
+    "sources": [
+      "High-fiber snacks",
+      "Breakfast cereals",
+      "Supplemental fibers"
+    ],
+    "search_terms": [
+      "fiber fraud",
+      "fiber adulteration",
+      "mislabeled fiber",
+      "non-digestible carbohydrates"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "1b4471c1-3d7c-4f12-add5-53fccc46da1c",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Heavy metals",
+    "description": "Toxic metals that can accumulate in the body",
+    "sources": [],
+    "search_terms": [
+      "metal contamination",
+      "toxic metals",
+      "metallic contaminants",
+      "trace metals"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "77352deb-b87e-4f92-bc0e-233dfd012c3a",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Heavy metals - Lead",
+    "description": "",
+    "sources": [
+      "Contaminated soil",
+      "Water",
+      "Industrial pollution",
+      "Lead-based paint"
+    ],
+    "search_terms": [
+      "Pb contamination",
+      "lead poisoning",
+      "lead exposure",
+      "plumbism",
+      "lead toxicity"
+    ],
+    "tags": [
+      "Heavy metals"
+    ]
+  },
+  {
+    "hazard_id": "f10f8a7c-8a94-485e-9297-6f8a80d77192",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Heavy metals - Mercury",
+    "description": "",
+    "sources": [
+      "Large predatory fish",
+      "Industrial pollution",
+      "Coal burning"
+    ],
+    "search_terms": [
+      "Hg contamination",
+      "methylmercury",
+      "mercury exposure",
+      "mercury toxicity",
+      "quicksilver"
+    ],
+    "tags": [
+      "Heavy metals"
+    ]
+  },
+  {
+    "hazard_id": "9a68cacd-90cc-4ae6-a20f-ea0884ffa4f5",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Heavy metals - Cadmium",
+    "description": "",
+    "sources": [
+      "Rice",
+      "Vegetables grown in contaminated soil",
+      "Shellfish",
+      "Tobacco smoke"
+    ],
+    "search_terms": [
+      "Cd contamination",
+      "cadmium exposure",
+      "cadmium toxicity",
+      "itai-itai disease"
+    ],
+    "tags": [
+      "Heavy metals"
+    ]
+  },
+  {
+    "hazard_id": "4ff4ee42-1ff1-4b09-a1ec-90846a9a9377",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Heavy metals - Arsenic",
+    "description": "",
+    "sources": [
+      "Rice",
+      "Seafood",
+      "Contaminated water",
+      "Certain fruit juices"
+    ],
+    "search_terms": [
+      "As contamination",
+      "arsenical compounds",
+      "arsenic toxicity",
+      "arsenicosis"
+    ],
+    "tags": [
+      "Heavy metals"
+    ]
+  },
+  {
+    "hazard_id": "d4dbad12-ec91-4fe5-8cff-800843bca51d",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Persistent organic pollutants (POPs)",
+    "description": "Chemical substances that persist in the environment and bioaccumulate",
+    "sources": [],
+    "search_terms": [
+      "persistent environmental contaminants",
+      "bioaccumulative pollutants",
+      "persistent chemicals",
+      "POPs"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "4c01878b-f503-43cb-a8fa-c0e2a70883fd",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Persistent organic pollutants (POPs) - Dioxins",
+    "description": "",
+    "sources": [
+      "Industrial processes",
+      "Waste incineration",
+      "Animal fats",
+      "Dairy"
+    ],
+    "search_terms": [
+      "PCDD",
+      "PCDF",
+      "dioxin-like compounds",
+      "tetrachlorodibenzodioxin",
+      "TCDD"
+    ],
+    "tags": [
+      "Persistent organic pollutants (POPs)"
+    ]
+  },
+  {
+    "hazard_id": "239760f4-0733-4b55-a9af-a9b6a34ef758",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Persistent organic pollutants (POPs) - Polychlorinated biphenyls (PCBs)",
+    "description": "",
+    "sources": [
+      "Fatty fish",
+      "Animal fats",
+      "Legacy industrial contamination"
+    ],
+    "search_terms": [
+      "PCB contamination",
+      "chlorinated biphenyls",
+      "aroclor",
+      "industrial PCBs"
+    ],
+    "tags": [
+      "Persistent organic pollutants (POPs)"
+    ]
+  },
+  {
+    "hazard_id": "01439532-9901-4e4b-b56c-5648eba59d2e",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Persistent organic pollutants (POPs) - Per- and polyfluoroalkyl substances (PFAS)",
+    "description": "",
+    "sources": [
+      "Contaminated water",
+      "Food packaging",
+      "Food grown in contaminated areas"
+    ],
+    "search_terms": [
+      "PFOS",
+      "PFOA",
+      "forever chemicals",
+      "fluorinated compounds",
+      "PFCs"
+    ],
+    "tags": [
+      "Persistent organic pollutants (POPs)"
+    ]
+  },
+  {
+    "hazard_id": "fa621055-2960-4527-b9c8-ddb8fcb8f6bb",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Radioactive contaminants",
+    "description": "Radionuclides that can contaminate food sources",
+    "sources": [
+      "Nuclear accidents",
+      "Naturally occurring radioactive materials",
+      "Contaminated soil/water"
+    ],
+    "search_terms": [
+      "radionuclides",
+      "radiological contamination",
+      "radiation",
+      "cesium-137",
+      "strontium-90",
+      "radioactive fallout"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "f8a3d9c1-5e72-4b89-91a6-3c0b7e2f4d61",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Microplastics",
+    "description": "Plastic particles <5mm from environmental degradation, found in aquatic food chains",
+    "sources": [
+      "Sea salt",
+      "Bottled water",
+      "Shellfish",
+      "Fish digestive tracts"
+    ],
+    "search_terms": [
+      "plastic particle contamination",
+      "microplastic pollution",
+      "nanoplastics",
+      "marine debris ingestion"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "e29b4d70-1a3f-4c85-9c8d-6b0a5f3e2c18",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Perchlorate",
+    "description": "Industrial chemical contaminating water/soil, disrupts thyroid function",
+    "sources": [
+      "Leafy greens",
+      "Milk",
+      "Cucumbers",
+      "Drinking water"
+    ],
+    "search_terms": [
+      "rocket fuel contaminant",
+      "ClO4-",
+      "thyroid disruptor",
+      "irrigation water pollutant"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "d47c2b9a-8e61-4f39-b5c3-0a9d6e1f4b28",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Dioxin-like PCBs",
+    "description": "PCB congeners that mimic dioxin toxicity, persistent in animal fats",
+    "sources": [
+      "Fatty fish",
+      "Dairy",
+      "Animal liver"
+    ],
+    "search_terms": [
+      "coplanar PCBs",
+      "non-ortho PCBs",
+      "TEQ compounds",
+      "dioxin toxic equivalency"
+    ],
+    "tags": [
+      "Persistent organic pollutants (POPs)"
+    ]
+  },
+  {
+    "hazard_id": "c56b1d09-2e83-4a7c-9f4b-3d8a0e6f5c27",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Chromium (Hexavalent)",
+    "description": "Industrial carcinogen contaminating water and soil",
+    "sources": [
+      "Rice grown in contaminated water",
+      "Leafy vegetables",
+      "Well water"
+    ],
+    "search_terms": [
+      "Cr(VI)",
+      "chromate contamination",
+      "Erin Brockovich chemical",
+      "industrial wastewater"
+    ],
+    "tags": [
+      "Heavy metals"
+    ]
+  },
+  {
+    "hazard_id": "b65a0c8d-1f92-4e37-8a4b-2c9d5e6f7b38",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Pesticide transformation products",
+    "description": "Toxic breakdown products of pesticides (e.g., DDT→DDE)",
+    "sources": [
+      "Groundwater",
+      "Long-stored grains",
+      "Aged tea leaves"
+    ],
+    "search_terms": [
+      "pesticide metabolites",
+      "degradation products",
+      "environmental persistence",
+      "legacy contaminants"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "a74b9d8e-0c6f-4d29-8b5a-1e3f2c6d5e47",
+    "category_id": "afc6c3bc-133c-45be-8f24-c2cf6963763d",
+    "name": "Nanoparticles (engineered)",
+    "description": "Manufactured nanoparticles from industrial use entering food chain",
+    "sources": [
+      "Food packaging migrants",
+      "Water treatment residues",
+      "Anti-caking agents"
+    ],
+    "search_terms": [
+      "TiO2 nanoparticles",
+      "nano-silver",
+      "engineered nanomaterials",
+      "food additive particles"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "5112ca20-615e-4da1-8a2f-eb76ad3c2bd8",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Preservatives",
+    "description": "Substances that prevent or inhibit spoilage",
+    "sources": [],
+    "search_terms": [
+      "food preservatives",
+      "antimicrobial additives",
+      "shelf life extenders",
+      "antioxidant preservatives"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "87833923-0445-4ae3-ab7b-06fd18061c0c",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Preservatives - Nitrates/Nitrites",
+    "description": "",
+    "sources": [
+      "Processed meats",
+      "Cured meats"
+    ],
+    "search_terms": [
+      "sodium nitrite",
+      "potassium nitrate",
+      "E249",
+      "E250",
+      "E251",
+      "E252",
+      "curing salts"
+    ],
+    "tags": [
+      "Preservatives"
+    ]
+  },
+  {
+    "hazard_id": "477b27af-e1aa-4875-8e60-2943c041ecb7",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Preservatives - Benzoates",
+    "description": "",
+    "sources": [
+      "Acidic foods",
+      "Soft drinks",
+      "Condiments"
+    ],
+    "search_terms": [
+      "sodium benzoate",
+      "potassium benzoate",
+      "E211",
+      "benzoic acid",
+      "E210"
+    ],
+    "tags": [
+      "Preservatives"
+    ]
+  },
+  {
+    "hazard_id": "76d94131-b81d-4d1b-884d-b8bee9a61860",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Preservatives - Sorbates",
+    "description": "",
+    "sources": [
+      "Cheese",
+      "Wine",
+      "Baked goods"
+    ],
+    "search_terms": [
+      "potassium sorbate",
+      "calcium sorbate",
+      "sorbic acid",
+      "E200",
+      "E202",
+      "E203"
+    ],
+    "tags": [
+      "Preservatives"
+    ]
+  },
+  {
+    "hazard_id": "729b9d99-4a8a-4562-9ec9-7de3e6c05e2b",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Food colorings",
+    "description": "Substances that add or restore color",
+    "sources": [],
+    "search_terms": [
+      "food dyes",
+      "color additives",
+      "artificial colors",
+      "coloring agents"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "f6b0f3c9-d52d-412b-a828-3a547dd7afa5",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Food colorings - Synthetic colorings",
+    "description": "",
+    "sources": [
+      "FD&C Yellow 5",
+      "FD&C Red 40",
+      "FD&C Blue 1"
+    ],
+    "search_terms": [
+      "artificial colors",
+      "azo dyes",
+      "tartrazine",
+      "allura red",
+      "brilliant blue",
+      "E numbers"
+    ],
+    "tags": [
+      "Food colorings"
+    ]
+  },
+  {
+    "hazard_id": "abb33bfe-6ad3-44d3-802a-3e66059d9dd7",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Food colorings - Natural colorings",
+    "description": "",
+    "sources": [
+      "Annatto",
+      "Turmeric",
+      "Beet extract",
+      "Paprika"
+    ],
+    "search_terms": [
+      "natural pigments",
+      "carotenoids",
+      "anthocyanins",
+      "chlorophyll",
+      "carmine"
+    ],
+    "tags": [
+      "Food colorings"
+    ]
+  },
+  {
+    "hazard_id": "4c20e4e4-3aae-4f9a-a92b-9cc2d2b45ca1",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Flavor enhancers",
+    "description": "Substances that enhance existing flavors",
+    "sources": [],
+    "search_terms": [
+      "taste enhancers",
+      "flavor potentiators",
+      "umami enhancers"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "19ec29d9-de6a-46f6-97e7-388f981834d6",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Flavor enhancers - Monosodium glutamate (MSG)",
+    "description": "",
+    "sources": [
+      "Processed foods",
+      "Restaurant foods",
+      "Savory snacks"
+    ],
+    "search_terms": [
+      "E621",
+      "glutamate",
+      "MSG",
+      "sodium glutamate",
+      "ajinomoto"
+    ],
+    "tags": [
+      "Flavor enhancers"
+    ]
+  },
+  {
+    "hazard_id": "c0a0303b-00eb-4512-aead-a3ca5353c40b",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Flavor enhancers - Disodium inosinate",
+    "description": "",
+    "sources": [
+      "Instant noodles",
+      "Snack foods",
+      "Soups"
+    ],
+    "search_terms": [
+      "E631",
+      "inosinate",
+      "nucleotide flavor enhancer",
+      "IMP"
+    ],
+    "tags": [
+      "Flavor enhancers"
+    ]
+  },
+  {
+    "hazard_id": "e0202e1f-be7a-449e-8a4c-c8a79e7d247d",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Sweeteners",
+    "description": "Natural and artificial substances that provide sweetness",
+    "sources": [],
+    "search_terms": [
+      "sugar substitutes",
+      "sugar alternatives",
+      "non-caloric sweeteners",
+      "high-intensity sweeteners"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b117ae5d-c19d-4623-a2da-f27d395e5484",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Sweeteners - Artificial sweeteners",
+    "description": "",
+    "sources": [
+      "Aspartame",
+      "Saccharin",
+      "Sucralose",
+      "Acesulfame-K"
+    ],
+    "search_terms": [
+      "non-nutritive sweeteners",
+      "synthetic sweeteners",
+      "E951",
+      "E954",
+      "E955",
+      "E950"
+    ],
+    "tags": [
+      "Sweeteners"
+    ]
+  },
+  {
+    "hazard_id": "6b7497fa-7b21-4c7d-89d4-f53711fc0f40",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Sweeteners - Natural sweeteners",
+    "description": "",
+    "sources": [
+      "Stevia",
+      "Monk fruit extract",
+      "Sugar alcohols (xylitol, sorbitol)"
+    ],
+    "search_terms": [
+      "plant-based sweeteners",
+      "polyols",
+      "steviol glycosides",
+      "luo han guo",
+      "erythritol"
+    ],
+    "tags": [
+      "Sweeteners"
+    ]
+  },
+  {
+    "hazard_id": "9708a696-ff24-4e86-a803-c481c41d30cc",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Packaging migrants",
+    "description": "Chemicals that can transfer from packaging into food",
+    "sources": [],
+    "search_terms": [
+      "chemical migration",
+      "packaging leachates",
+      "food contact chemicals",
+      "package migration"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "90ca2f1f-7b82-4c73-87cd-a40891d546f4",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Packaging migrants - Bisphenol A (BPA)",
+    "description": "",
+    "sources": [
+      "Can linings",
+      "Polycarbonate containers",
+      "Receipt paper"
+    ],
+    "search_terms": [
+      "BPA",
+      "phenolic plastic",
+      "polycarbonate plastic",
+      "epoxy resin",
+      "bisphenol"
+    ],
+    "tags": [
+      "Packaging migrants"
+    ]
+  },
+  {
+    "hazard_id": "b91e84de-f9db-4f83-b259-a98a9f8e1a2d",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Packaging migrants - Phthalates",
+    "description": "",
+    "sources": [
+      "Flexible plastic food packaging",
+      "Food processing equipment with PVC parts"
+    ],
+    "search_terms": [
+      "plasticizers",
+      "DEHP",
+      "DBP",
+      "BBP",
+      "DINP",
+      "phthalic acid esters"
+    ],
+    "tags": [
+      "Packaging migrants"
+    ]
+  },
+  {
+    "hazard_id": "57478151-fc88-4278-a928-0e5e5039c2ec",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Packaging migrants - Perfluorinated compounds",
+    "description": "",
+    "sources": [
+      "Grease-resistant packaging",
+      "Non-stick cookware",
+      "Fast food containers"
+    ],
+    "search_terms": [
+      "PFCs",
+      "fluorochemicals",
+      "PFAS",
+      "non-stick chemicals",
+      "fluorotelomers"
+    ],
+    "tags": [
+      "Packaging migrants"
+    ]
+  },
+  {
+    "hazard_id": "274acbcd-480f-4221-8663-2f85d5e1c3a1",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Packaging migrants - Semicarbazide",
+    "description": "",
+    "sources": [
+      "Plastic gaskets in metal lids of glass jars",
+      "Azodicarbonamide breakdown product"
+    ],
+    "search_terms": [
+      "SEM",
+      "azodicarbonamide byproduct",
+      "jar lid sealing gasket contaminant",
+      "blowing agent residue"
+    ],
+    "tags": [
+      "Packaging migrants"
+    ]
+  },
+  {
+    "hazard_id": "91ccc666-32b0-49c0-9aea-193670dbfad4",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Processing equipment materials",
+    "description": "Substances from equipment used in food production",
+    "sources": [],
+    "search_terms": [
+      "equipment residues",
+      "machinery contaminants",
+      "processing equipment leachables"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "8219ec18-b437-4ab2-974c-05049e9ae248",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Processing equipment materials - Metal contaminants",
+    "description": "",
+    "sources": [
+      "Processing equipment wear",
+      "Stainless steel",
+      "Machinery lubricants"
+    ],
+    "search_terms": [
+      "metal fragments",
+      "metal shavings",
+      "equipment wear metals",
+      "stainless steel particles"
+    ],
+    "tags": [
+      "Processing equipment materials"
+    ]
+  },
+  {
+    "hazard_id": "1bde0dc2-5365-4a5b-a550-b100ff0bd99d",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Processing equipment materials - Mineral oil hydrocarbons",
+    "description": "",
+    "sources": [
+      "Lubricants for machinery",
+      "Conveyor belts",
+      "Maintenance materials"
+    ],
+    "search_terms": [
+      "MOSH",
+      "MOAH",
+      "mineral oil saturated hydrocarbons",
+      "mineral oil aromatic hydrocarbons",
+      "food-grade lubricants"
+    ],
+    "tags": [
+      "Processing equipment materials"
+    ]
+  },
+  {
+    "hazard_id": "d4f09de1-e5b4-4c08-8274-5b226c15e9b3",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Printing inks",
+    "description": "Inks used on food packaging materials",
+    "sources": [
+      "Food packages with printed exterior",
+      "Labels",
+      "Secondary packaging that contacts food"
+    ],
+    "search_terms": [
+      "packaging inks",
+      "printed material migration",
+      "ink components",
+      "photoinitiators",
+      "benzophenone"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "d6775420-38e0-402a-a8e8-c63e53d54253",
+    "category_id": "42a1b0e6-2a97-4549-8500-35ea8dd2603f",
+    "name": "Adhesives",
+    "description": "Substances used to seal or construct packaging",
+    "sources": [
+      "Food packaging seams",
+      "Labels",
+      "Laminates"
+    ],
+    "search_terms": [
+      "packaging glues",
+      "sealing compounds",
+      "laminating adhesives",
+      "packaging sealants"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "ce531d5f-b297-43a9-9d53-514335adc451",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Adulteration",
+    "description": "Adding inferior or foreign substances to food",
+    "sources": [],
+    "search_terms": [
+      "food adulteration",
+      "economic adulteration",
+      "fraudulent addition",
+      "illegal additives"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "2dcb176b-bdac-4ed9-a65d-2a31392b0fce",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Adulteration - Melamine in milk products",
+    "description": "Addition to artificially increase apparent protein content",
+    "sources": [],
+    "search_terms": [
+      "melamine scandal",
+      "protein adulteration",
+      "milk contamination",
+      "fraudulent protein"
+    ],
+    "tags": [
+      "Adulteration"
+    ]
+  },
+  {
+    "hazard_id": "153b615a-7ffa-4ec5-833c-569c20847d5f",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Adulteration - Sudan dyes in spices",
+    "description": "Addition of industrial dyes to enhance color",
+    "sources": [],
+    "search_terms": [
+      "illegal colorants",
+      "industrial dye adulteration",
+      "sudan I",
+      "sudan IV",
+      "toxic dyes"
+    ],
+    "tags": [
+      "Adulteration"
+    ]
+  },
+  {
+    "hazard_id": "42c1ed9d-23d6-41a3-b4dd-3cd2747aa459",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Adulteration - Dilution of olive oil with cheaper oils",
+    "description": "Mixing premium olive oil with lower quality oils",
+    "sources": [],
+    "search_terms": [
+      "olive oil fraud",
+      "oil adulteration",
+      "fake extra virgin",
+      "blended oils",
+      "oil substitution"
+    ],
+    "tags": [
+      "Adulteration"
+    ]
+  },
+  {
+    "hazard_id": "6047e028-6ece-4ba6-9fb2-a6e9e37295af",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Substitution",
+    "description": "Replacing an ingredient with a similar, cheaper alternative",
+    "sources": [],
+    "search_terms": [
+      "ingredient substitution",
+      "food substitution fraud",
+      "cheaper ingredient swap"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b194595c-7b47-4328-b01a-672b0c567d9d",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Substitution - Species substitution in seafood",
+    "description": "Selling lower-value fish species as premium varieties",
+    "sources": [],
+    "search_terms": [
+      "fish fraud",
+      "seafood mislabeling",
+      "species misidentification",
+      "fish substitution",
+      "seafood fraud"
+    ],
+    "tags": [
+      "Substitution"
+    ]
+  },
+  {
+    "hazard_id": "9f4cdd1d-1bb5-40f2-9f35-81f73c78e424",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Substitution - Honey adulteration",
+    "description": "Diluting honey with sugar syrups or other sweeteners",
+    "sources": [],
+    "search_terms": [
+      "fake honey",
+      "honey dilution",
+      "syrup adulteration",
+      "sugar syrup in honey",
+      "honey laundering"
+    ],
+    "tags": [
+      "Substitution"
+    ]
+  },
+  {
+    "hazard_id": "c4f77e2e-7c7c-452c-9615-fe353399db7d",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Mislabeling",
+    "description": "False or misleading product information",
+    "sources": [],
+    "search_terms": [
+      "false labeling",
+      "fraudulent labels",
+      "misleading information",
+      "label fraud"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "a080ce30-dfc6-4dc7-be53-ef3535d498d9",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Mislabeling - False country of origin",
+    "description": "Claiming products are from regions known for quality",
+    "sources": [],
+    "search_terms": [
+      "origin fraud",
+      "geographical indication fraud",
+      "falsified provenance",
+      "geographic mislabeling"
+    ],
+    "tags": [
+      "Mislabeling"
+    ]
+  },
+  {
+    "hazard_id": "5d15d443-41f9-471d-ba5d-f6195f805598",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Mislabeling - Falsely labeled organic products",
+    "description": "Conventional products sold as organic",
+    "sources": [],
+    "search_terms": [
+      "fake organic",
+      "organic fraud",
+      "falsified organic certification",
+      "pseudoorganic"
+    ],
+    "tags": [
+      "Mislabeling"
+    ]
+  },
+  {
+    "hazard_id": "b804c30e-711f-4f98-933f-c112a53deadf",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Counterfeit products",
+    "description": "Fake products made to resemble established brands",
+    "sources": [],
+    "search_terms": [
+      "food counterfeiting",
+      "brand imitation",
+      "fake products",
+      "trademark infringement",
+      "product forgery"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Honey adulteration with corn syrup",
+    "description": "Dilution of pure honey with cheaper sweeteners like high-fructose corn syrup",
+    "sources": [
+      "Imported honey",
+      "Bulk honey blends",
+      "Processed food products"
+    ],
+    "search_terms": [
+      "honey fraud",
+      "syrup adulteration",
+      "C4 sugar test",
+      "NMR honey testing"
+    ],
+    "tags": [
+      "Adulteration"
+    ]
+  },
+  {
+    "hazard_id": "8b7c6d5e-4f3a-2b1c-0d9e-8f7a6b5c4d3e",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Extra virgin olive oil dilution",
+    "description": "Mixing premium EVOO with lower-grade olive oils or seed oils",
+    "sources": [
+      "Private label oils",
+      "Discounted premium brands",
+      "Food service bulk oils"
+    ],
+    "search_terms": [
+      "olive oil fraud",
+      "EVOO adulteration",
+      "fatty acid profiling",
+      "sterol content test"
+    ],
+    "tags": [
+      "Adulteration"
+    ]
+  },
+  {
+    "hazard_id": "7c6d5e4f-3a2b-1c0d-9e8f-7a6b5c4d3e2f",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Organic food fraud",
+    "description": "Conventional products sold as organic without certification",
+    "sources": [
+      "Imported produce",
+      "Online retailers",
+      "Farmers markets"
+    ],
+    "search_terms": [
+      "fake organic",
+      "NOP violations",
+      "pesticide residue testing",
+      "isotope analysis"
+    ],
+    "tags": [
+      "Mislabeling"
+    ]
+  },
+  {
+    "hazard_id": "6d5e4f3a-2b1c-0d9e-8f7a-6b5c4d3e2f1g",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Seafood species substitution",
+    "description": "Mislabeling cheaper fish as premium species (e.g., tilapia as red snapper)",
+    "sources": [
+      "Sushi restaurants",
+      "Processed fish products",
+      "Frozen fillets"
+    ],
+    "search_terms": [
+      "fish fraud",
+      "DNA barcoding",
+      "species substitution",
+      "seafood mislabeling"
+    ],
+    "tags": [
+      "Substitution"
+    ]
+  },
+  {
+    "hazard_id": "5e4f3a2b-1c0d-9e8f-7a6b-5c4d3e2f1g0h",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Spice adulteration with fillers",
+    "description": "Adding bulking agents like sawdust, starch or dyes to spices",
+    "sources": [
+      "Ground turmeric",
+      "Paprika",
+      "Chili powder"
+    ],
+    "search_terms": [
+      "spice fraud",
+      "Sudan dye test",
+      "microscopic analysis",
+      "starch adulteration"
+    ],
+    "tags": [
+      "Adulteration"
+    ]
+  },
+  {
+    "hazard_id": "4f3a2b1c-0d9e-8f7a-6b5c-4d3e2f1g0h9i",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Milk protein adulteration",
+    "description": "Adding nitrogen-rich compounds to fake protein content",
+    "sources": [
+      "Milk powder",
+      "Infant formula",
+      "Protein supplements"
+    ],
+    "search_terms": [
+      "milk fraud",
+      "Kjeldahl test bypass",
+      "melamine detection",
+      "protein spiking"
+    ],
+    "tags": [
+      "Adulteration"
+    ]
+  },
+  {
+    "hazard_id": "8ea92045-4d12-49a6-aa07-a88a0ce6ec4a",
+    "category_id": "bc02042d-65b2-4185-a56b-4514348b705b",
+    "name": "Genetically modified crops",
+    "description": "Plants with modified genetic material",
+    "sources": [
+      "Bt corn",
+      "Herbicide-resistant soybeans",
+      "Golden rice"
+    ],
+    "search_terms": [
+      "GMO crops",
+      "transgenic plants",
+      "bioengineered crops",
+      "GM plants",
+      "genetically engineered crops"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "be098e30-dd6d-4fee-b392-df66ecd8f834",
+    "category_id": "bc02042d-65b2-4185-a56b-4514348b705b",
+    "name": "Genetically modified animals",
+    "description": "Animals with modified genetic material",
+    "sources": [
+      "Fast-growing salmon",
+      "Disease-resistant livestock"
+    ],
+    "search_terms": [
+      "transgenic animals",
+      "GM animals",
+      "bioengineered animals",
+      "genetically engineered livestock",
+      "GMO salmon"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "0358d82b-d77e-4de4-be5e-08b826a45813",
+    "category_id": "bc02042d-65b2-4185-a56b-4514348b705b",
+    "name": "Genetically modified microorganisms",
+    "description": "Modified bacteria or fungi used in food production",
+    "sources": [
+      "Enzyme production",
+      "Fermentation cultures"
+    ],
+    "search_terms": [
+      "GMO microbes",
+      "engineered bacteria",
+      "modified yeast",
+      "transgenic microorganisms",
+      "recombinant microorganisms"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "e8fb4d2e-d095-4c92-b952-f745c05eda44",
+    "category_id": "bc02042d-65b2-4185-a56b-4514348b705b",
+    "name": "Unauthorized GM material",
+    "description": "Presence of unapproved GM elements in food",
+    "sources": [],
+    "search_terms": [
+      "unapproved GMO",
+      "illegal GMO",
+      "unauthorized biotech",
+      "adventitious GM presence",
+      "unapproved transgenic material"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "59f103a1-c683-4f7e-8b70-84d12d9a5d02",
+    "category_id": "74ee76b7-ca34-4e18-9430-e7abc386c047",
+    "name": "Gamma irradiation",
+    "description": "Treatment using gamma rays from radioactive sources",
+    "sources": [
+      "Spices",
+      "Dried herbs",
+      "Meat products",
+      "Fresh produce"
+    ],
+    "search_terms": [
+      "gamma radiation",
+      "cobalt-60 treatment",
+      "cesium-137 irradiation",
+      "gamma-treated food",
+      "radioisotope irradiation"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "6714219f-e48a-49ee-966d-674b54433e89",
+    "category_id": "74ee76b7-ca34-4e18-9430-e7abc386c047",
+    "name": "Electron beam irradiation",
+    "description": "Treatment using accelerated electrons",
+    "sources": [
+      "Surface treatment of foods",
+      "Packaged products"
+    ],
+    "search_terms": [
+      "e-beam",
+      "electron treatment",
+      "accelerated electron processing",
+      "electron accelerator treatment"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "42cfa7c3-d40c-4ee2-9f78-2b8fd27b304f",
+    "category_id": "74ee76b7-ca34-4e18-9430-e7abc386c047",
+    "name": "X-ray irradiation",
+    "description": "Treatment using X-rays generated by machine sources",
+    "sources": [
+      "Packaged foods",
+      "Bulk products"
+    ],
+    "search_terms": [
+      "X-ray treatment",
+      "X-ray processing",
+      "radiographic treatment",
+      "photon irradiation"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "394675d3-d936-4b18-85b1-69004448947e",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "bacterial contamination",
+      "bacterial pathogens",
+      "foodborne bacteria",
+      "microbial hazards"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "678f7c1c-4112-49dd-b7a1-9574634ff487",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Salmonella",
+    "description": "",
+    "sources": [
+      "Poultry",
+      "Eggs",
+      "Unpasteurized dairy",
+      "Fresh produce"
+    ],
+    "search_terms": [
+      "salmonellosis",
+      "salmonella enterica",
+      "salmonella infection",
+      "non-typhoidal salmonella"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "a68fbb57-f2c0-4120-bb64-beb0a8a81696",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Escherichia coli (E. coli)",
+    "description": "",
+    "sources": [
+      "Undercooked beef",
+      "Raw milk",
+      "Fresh produce",
+      "Contaminated water"
+    ],
+    "search_terms": [
+      "E. coli O157:H7",
+      "STEC",
+      "EHEC",
+      "VTEC",
+      "coliform bacteria"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "a214c39c-f75d-4440-9cda-1b08c2b26135",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Listeria monocytogenes",
+    "description": "",
+    "sources": [
+      "Ready-to-eat foods",
+      "Deli meats",
+      "Soft cheeses",
+      "Raw sprouts"
+    ],
+    "search_terms": [
+      "listeriosis",
+      "listeria infection",
+      "L. monocytogenes",
+      "listeria bacteria",
+      "Listeria genus"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "17573e12-a369-425b-807c-c3627e9fcc86",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Campylobacter",
+    "description": "",
+    "sources": [
+      "Raw poultry",
+      "Unpasteurized milk",
+      "Contaminated water"
+    ],
+    "search_terms": [
+      "campylobacteriosis",
+      "campylobacter jejuni",
+      "campylobacter infection"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "6f3714ac-5fc9-45f7-9f0c-d48bde8d6975",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Clostridium botulinum",
+    "description": "",
+    "sources": [
+      "Improperly canned foods",
+      "Honey (for infants)",
+      "Vacuum-packed foods"
+    ],
+    "search_terms": [
+      "botulism",
+      "botulinum toxin",
+      "C. botulinum",
+      "botulinal toxin"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "9c4d4312-396c-478a-aad1-0e8ac9514cc1",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Bacillus cereus",
+    "description": "",
+    "sources": [
+      "Rice",
+      "Pasta",
+      "Dried herbs",
+      "Left at room temperature after cooking"
+    ],
+    "search_terms": [
+      "B. cereus",
+      "bacillus food poisoning",
+      "fried rice syndrome",
+      "bacillus enterotoxin"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "f2169efe-cf16-44c0-abcf-dcce0241ffc0",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Staphylococcus aureus",
+    "description": "",
+    "sources": [
+      "Foods requiring human handling",
+      "Dairy",
+      "Meats",
+      "Temperature-abused foods"
+    ],
+    "search_terms": [
+      "staph",
+      "staphylococcal food poisoning",
+      "staph enterotoxin",
+      "S. aureus"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "268a5824-981b-4613-9e04-e8fbfe19d72f",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Vibrio species",
+    "description": "",
+    "sources": [
+      "Seafood",
+      "Raw oysters",
+      "Shellfish",
+      "Coastal waters"
+    ],
+    "search_terms": [
+      "vibriosis",
+      "V. parahaemolyticus",
+      "V. vulnificus",
+      "V. cholerae",
+      "seafood pathogen"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "293a65a8-921a-4434-9c53-5f6ddefbf560",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Yersinia enterocolitica",
+    "description": "",
+    "sources": [
+      "Raw pork",
+      "Unpasteurized milk",
+      "Tofu",
+      "Chitterlings"
+    ],
+    "search_terms": [
+      "yersiniosis",
+      "Y. enterocolitica",
+      "yersinia infection",
+      "enteric yersinia"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "58595368-afa2-4e52-b5ef-e1f04aaf32f1",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Shigella species",
+    "description": "",
+    "sources": [
+      "Contaminated water",
+      "Ready-to-eat foods",
+      "Foods handled by infected workers"
+    ],
+    "search_terms": [
+      "shigellosis",
+      "bacillary dysentery",
+      "Shigella sonnei",
+      "Shigella flexneri"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "6fc82cdb-8de9-4877-a080-b6e97af1585b",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Clostridium perfringens",
+    "description": "",
+    "sources": [
+      "Meat and poultry dishes",
+      "Gravies",
+      "Foods cooled too slowly"
+    ],
+    "search_terms": [
+      "C. perfringens",
+      "perfringens food poisoning",
+      "gas gangrene organism",
+      "heat-resistant spores"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "00448f1e-13e0-4b3e-87b7-214309f6b5e9",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Cronobacter sakazakii",
+    "description": "",
+    "sources": [
+      "Powdered infant formula",
+      "Dried milk",
+      "Herbal teas"
+    ],
+    "search_terms": [
+      "Cronobacter",
+      "Enterobacter sakazakii",
+      "neonatal infection",
+      "infant formula contamination"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "4c7379ee-63a6-4192-a14d-82f9a0ce6c25",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Brucella species",
+    "description": "",
+    "sources": [
+      "Unpasteurized dairy products",
+      "Raw milk",
+      "Undercooked meat"
+    ],
+    "search_terms": [
+      "brucellosis",
+      "undulant fever",
+      "malta fever",
+      "Brucella abortus",
+      "Brucella melitensis"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "5cba3cf4-d522-4092-92fe-6e1b2e8134ca",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Aeromonas species",
+    "description": "",
+    "sources": [
+      "Seafood",
+      "Fresh produce",
+      "Water",
+      "Poultry"
+    ],
+    "search_terms": [
+      "Aeromonas hydrophila",
+      "aeromonad infection",
+      "water-associated pathogen"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "cecd715c-ba08-42e4-aa99-b962954c5abf",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Plesiomonas shigelloides",
+    "description": "",
+    "sources": [
+      "Seafood",
+      "Freshwater fish",
+      "Shellfish",
+      "Surface waters"
+    ],
+    "search_terms": [
+      "plesiomonas infection",
+      "seafood pathogen",
+      "waterborne bacterial infection"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "30508ca1-5cc1-4f6f-bf8d-bf3b7eadcd40",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Bacteria - Enterococcus",
+    "description": "",
+    "sources": [
+      "Raw Milk",
+      "Raw Cheese",
+      "Unpasteurized dairy",
+      "Yogurt",
+      "Fermented Foods"
+    ],
+    "search_terms": [
+      "enterococcus",
+      "group d streptococcus",
+      "nonhemolytic streptococci"
+    ],
+    "tags": [
+      "Bacteria"
+    ]
+  },
+  {
+    "hazard_id": "f2408995-6555-4f60-9ef1-d4f7cd59eeb3",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Viruses",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "viral contamination",
+      "foodborne viruses",
+      "viral pathogens",
+      "enteric viruses"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "335efa25-0f93-4bc6-bd7d-31ca0b81a0ba",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Viruses - Norovirus",
+    "description": "",
+    "sources": [
+      "Food handled by infected workers",
+      "Shellfish",
+      "Fresh produce"
+    ],
+    "search_terms": [
+      "norwalk virus",
+      "winter vomiting bug",
+      "viral gastroenteritis",
+      "noroviral illness"
+    ],
+    "tags": [
+      "Viruses"
+    ]
+  },
+  {
+    "hazard_id": "73fd586c-be47-4427-ac2b-906d608eb649",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Viruses - Hepatitis A virus",
+    "description": "",
+    "sources": [
+      "Contaminated water",
+      "Shellfish",
+      "Fresh produce",
+      "Foods handled by infected workers"
+    ],
+    "search_terms": [
+      "hep A",
+      "infectious hepatitis",
+      "HAV",
+      "viral hepatitis"
+    ],
+    "tags": [
+      "Viruses"
+    ]
+  },
+  {
+    "hazard_id": "cc1512aa-4ee3-45c1-8ae5-f3c9cf8943b2",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Viruses - Rotavirus",
+    "description": "",
+    "sources": [
+      "Contaminated food and water",
+      "Person-to-person spread"
+    ],
+    "search_terms": [
+      "rota",
+      "viral gastroenteritis",
+      "rotavirus infection",
+      "rotaviral diarrhea"
+    ],
+    "tags": [
+      "Viruses"
+    ]
+  },
+  {
+    "hazard_id": "02e81233-a8f3-4a08-8b22-766096c02263",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Viruses - Hepatitis E virus",
+    "description": "",
+    "sources": [
+      "Undercooked pork",
+      "Game meat",
+      "Shellfish",
+      "Contaminated water"
+    ],
+    "search_terms": [
+      "HEV",
+      "hep E",
+      "enterically transmitted hepatitis",
+      "zoonotic hepatitis"
+    ],
+    "tags": [
+      "Viruses"
+    ]
+  },
+  {
+    "hazard_id": "07a7fa01-b36b-49ef-9880-c1ada381795d",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Viruses - Astrovirus",
+    "description": "",
+    "sources": [
+      "Shellfish",
+      "Contaminated water",
+      "Foods handled by infected persons"
+    ],
+    "search_terms": [
+      "astro infection",
+      "viral gastroenteritis",
+      "astroviral diarrhea"
+    ],
+    "tags": [
+      "Viruses"
+    ]
+  },
+  {
+    "hazard_id": "711c011f-70f9-4bb0-ac6e-ec79335af4af",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Molds and Yeasts",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "fungal contamination",
+      "yeast contamination",
+      "food molds",
+      "fungal spoilage"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b567334d-37cf-47c4-92b2-817213775a2c",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Molds and Yeasts - Mycotoxin-producing molds",
+    "description": "",
+    "sources": [
+      "Aspergillus",
+      "Penicillium",
+      "Fusarium"
+    ],
+    "search_terms": [
+      "aflatoxin-producing molds",
+      "ochratoxin-producing fungi",
+      "toxigenic fungi",
+      "mycotoxigenic molds"
+    ],
+    "tags": [
+      "Molds and Yeasts"
+    ]
+  },
+  {
+    "hazard_id": "e5751d28-a8d7-4c49-92f7-0ba19682d06f",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Molds and Yeasts - Spoilage yeasts",
+    "description": "",
+    "sources": [
+      "Fermented foods",
+      "Fruits",
+      "Beverages",
+      "Dairy products"
+    ],
+    "search_terms": [
+      "fermenting yeasts",
+      "yeast spoilage",
+      "wild yeasts",
+      "zygosaccharomyces"
+    ],
+    "tags": [
+      "Molds and Yeasts"
+    ]
+  },
+  {
+    "hazard_id": "1f56a482-7439-46a6-a144-47077269f940",
+    "category_id": "d5e6bfa3-9bec-4f27-8ff3-2dfcbe22634b",
+    "name": "Molds and Yeasts - Prions",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "transmissible spongiform encephalopathies",
+      "TSE",
+      "protein infectious agents",
+      "misfolded proteins"
+    ],
+    "tags": [
+      "Molds and Yeasts"
+    ]
+  },
+  {
+    "hazard_id": "db36c0cd-4eba-472c-bfd4-ea0ddafc9f65",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Plant toxins",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "phytotoxins",
+      "toxic plant compounds",
+      "natural plant poisons",
+      "plant alkaloids"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "695f1d3d-1e5e-4f26-b6c2-cba2212c0e1c",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Plant toxins - Solanine and chaconine",
+    "description": "",
+    "sources": [
+      "Green potatoes",
+      "Potato sprouts"
+    ],
+    "search_terms": [
+      "glycoalkaloids",
+      "potato toxins",
+      "potato alkaloids",
+      "greened potato toxins"
+    ],
+    "tags": [
+      "Plant toxins"
+    ]
+  },
+  {
+    "hazard_id": "60f4b6c3-9d32-477d-ba90-c92834668cf9",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Plant toxins - Cyanogenic glycosides",
+    "description": "",
+    "sources": [
+      "Bitter almonds",
+      "Cassava",
+      "Lima beans",
+      "Apple seeds"
+    ],
+    "search_terms": [
+      "cyanide-releasing compounds",
+      "linamarin",
+      "amygdalin",
+      "prussic acid glycosides"
+    ],
+    "tags": [
+      "Plant toxins"
+    ]
+  },
+  {
+    "hazard_id": "d1c993ed-aa56-4b9f-b4e8-583351a27215",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Plant toxins - Lectins",
+    "description": "",
+    "sources": [
+      "Undercooked beans",
+      "Certain grains and legumes"
+    ],
+    "search_terms": [
+      "phytohemagglutinin",
+      "bean lectins",
+      "plant agglutinins",
+      "hemagglutinin"
+    ],
+    "tags": [
+      "Plant toxins"
+    ]
+  },
+  {
+    "hazard_id": "fdc0ecc2-fb58-40f7-893c-da33882e0aa2",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Plant toxins - Pyrrolizidine alkaloids",
+    "description": "",
+    "sources": [
+      "Certain herbs",
+      "Honey from plants containing these alkaloids"
+    ],
+    "search_terms": [
+      "PA",
+      "pyrrolizidine",
+      "comfrey alkaloids",
+      "senecio alkaloids",
+      "hepatotoxic alkaloids"
+    ],
+    "tags": [
+      "Plant toxins"
+    ]
+  },
+  {
+    "hazard_id": "8c7b15c9-e450-4a2e-adee-43f749aa07d3",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Marine biotoxins",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "seafood toxins",
+      "harmful algal bloom toxins",
+      "shellfish poisoning toxins",
+      "algal toxins"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "8fc56634-5f5b-462a-a7e2-a78d03c543b1",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Marine biotoxins - Ciguatoxin",
+    "description": "",
+    "sources": [
+      "Large reef fish such as barracuda, grouper, snapper"
+    ],
+    "search_terms": [
+      "ciguatera",
+      "ciguatera fish poisoning",
+      "CFP",
+      "reef fish toxin"
+    ],
+    "tags": [
+      "Marine biotoxins"
+    ]
+  },
+  {
+    "hazard_id": "5ecad17a-a471-4350-a436-cc5f7d0c8c27",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Marine biotoxins - Paralytic shellfish toxins",
+    "description": "",
+    "sources": [
+      "Mussels",
+      "Clams",
+      "Oysters",
+      "Scallops"
+    ],
+    "search_terms": [
+      "PSP",
+      "saxitoxin",
+      "paralytic shellfish poison",
+      "red tide toxins"
+    ],
+    "tags": [
+      "Marine biotoxins"
+    ]
+  },
+  {
+    "hazard_id": "8ed859ff-481a-4e76-ba6b-acd22c7f3f45",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Marine biotoxins - Domoic acid (Amnesic shellfish toxin)",
+    "description": "",
+    "sources": [
+      "Shellfish",
+      "Certain fish"
+    ],
+    "search_terms": [
+      "ASP",
+      "amnesic shellfish poisoning",
+      "domoic acid poisoning",
+      "harmful algal toxin"
+    ],
+    "tags": [
+      "Marine biotoxins"
+    ]
+  },
+  {
+    "hazard_id": "baa74acf-9488-44f6-9b17-23281a9b4492",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Marine biotoxins - Scombrotoxin (histamine)",
+    "description": "",
+    "sources": [
+      "Dark meat fish like tuna, mackerel, bonito"
+    ],
+    "search_terms": [
+      "histamine poisoning",
+      "scombroid poisoning",
+      "histamine fish poisoning",
+      "HFP"
+    ],
+    "tags": [
+      "Marine biotoxins"
+    ]
+  },
+  {
+    "hazard_id": "86ab5e49-c2cc-4ec0-80e4-d9b63d178923",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Mushroom toxins",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "mycotoxins",
+      "toxic mushroom compounds",
+      "fungal toxins",
+      "mushroom poisons"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "e7097d6a-b084-4b3a-8aeb-4d878e11bcd7",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Mushroom toxins - Amatoxins",
+    "description": "",
+    "sources": [
+      "Death cap mushrooms (Amanita phalloides)",
+      "Certain other wild mushrooms"
+    ],
+    "search_terms": [
+      "death cap toxins",
+      "amatoxin poisoning",
+      "amanita toxins",
+      "hepatotoxic mushroom poisons"
+    ],
+    "tags": [
+      "Mushroom toxins"
+    ]
+  },
+  {
+    "hazard_id": "757b536f-403b-4397-a57d-7ec015372389",
+    "category_id": "34ed4712-b60d-4d31-b496-855ce6973900",
+    "name": "Mushroom toxins - Orellanine",
+    "description": "",
+    "sources": [
+      "Cortinarius mushrooms"
+    ],
+    "search_terms": [
+      "cortinarius toxin",
+      "deadly webcap poison",
+      "nephrotoxic mushroom toxin",
+      "cortinarius poisoning"
+    ],
+    "tags": [
+      "Mushroom toxins"
+    ]
+  },
+  {
+    "hazard_id": "a1202334-7425-40bd-b30c-cd7205bd29e3",
+    "category_id": "fbb25d84-3e3b-4fcb-9544-4e640a7790d7",
+    "name": "Novel protein sources",
+    "description": "Non-traditional sources of protein",
+    "sources": [],
+    "search_terms": [
+      "alternative proteins",
+      "new protein sources",
+      "non-conventional proteins"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "2fd64f09-637e-4a92-9fea-f507d5542e26",
+    "category_id": "fbb25d84-3e3b-4fcb-9544-4e640a7790d7",
+    "name": "Novel protein sources - Insects",
+    "description": "",
+    "sources": [
+      "Cricket flour",
+      "Mealworm protein",
+      "Black soldier fly larvae"
+    ],
+    "search_terms": [
+      "edible insects",
+      "entomophagy",
+      "insect protein",
+      "bug protein",
+      "cricket powder"
+    ],
+    "tags": [
+      "Novel protein sources"
+    ]
+  },
+  {
+    "hazard_id": "eeaca77c-dbbd-44e3-a33d-2f6cab7d32b9",
+    "category_id": "fbb25d84-3e3b-4fcb-9544-4e640a7790d7",
+    "name": "Novel protein sources - Cultured meat",
+    "description": "Lab-grown meat from animal cells",
+    "sources": [],
+    "search_terms": [
+      "lab meat",
+      "in vitro meat",
+      "cell-based meat",
+      "clean meat",
+      "cultivated meat"
+    ],
+    "tags": [
+      "Novel protein sources"
+    ]
+  },
+  {
+    "hazard_id": "f9799071-aa00-4536-9a99-45ee4846c592",
+    "category_id": "fbb25d84-3e3b-4fcb-9544-4e640a7790d7",
+    "name": "Novel protein sources - Single-cell proteins",
+    "description": "Proteins derived from microorganisms",
+    "sources": [
+      "Algae protein",
+      "Fungal protein",
+      "Bacterial protein"
+    ],
+    "search_terms": [
+      "microbial protein",
+      "mycoprotein",
+      "microbial biomass",
+      "fermentation-derived protein"
+    ],
+    "tags": [
+      "Novel protein sources"
+    ]
+  },
+  {
+    "hazard_id": "f0e26125-f2d6-461f-9e0b-3f1322354f90",
+    "category_id": "fbb25d84-3e3b-4fcb-9544-4e640a7790d7",
+    "name": "Novel ingredients",
+    "description": "Newly discovered or newly used food components",
+    "sources": [],
+    "search_terms": [
+      "new food ingredients",
+      "innovative additives",
+      "emerging food components"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b7eb9d5e-e701-4142-a9f9-a1251f0b6134",
+    "category_id": "fbb25d84-3e3b-4fcb-9544-4e640a7790d7",
+    "name": "Novel ingredients - Phytosterols",
+    "description": "",
+    "sources": [
+      "Plant-based spreads",
+      "Fortified foods"
+    ],
+    "search_terms": [
+      "plant sterols",
+      "stanols",
+      "beta-sitosterol",
+      "cholesterol-lowering ingredients"
+    ],
+    "tags": [
+      "Novel ingredients"
+    ]
+  },
+  {
+    "hazard_id": "47882541-2afb-4da0-9643-e3985572b267",
+    "category_id": "fbb25d84-3e3b-4fcb-9544-4e640a7790d7",
+    "name": "Novel ingredients - Novel fibers",
+    "description": "",
+    "sources": [
+      "Resistant starches",
+      "Synthesized oligosaccharides"
+    ],
+    "search_terms": [
+      "functional fibers",
+      "resistant maltodextrin",
+      "polydextrose",
+      "novel prebiotics"
+    ],
+    "tags": [
+      "Novel ingredients"
+    ]
+  },
+  {
+    "hazard_id": "047b1a90-0cf8-4593-b884-66b56c82a8d4",
+    "category_id": "fbb25d84-3e3b-4fcb-9544-4e640a7790d7",
+    "name": "Nanomaterials in food",
+    "description": "Engineered particles at nanoscale used in food applications",
+    "sources": [
+      "Nanoencapsulated nutrients",
+      "Nanoemulsions",
+      "Nanosized food additives"
+    ],
+    "search_terms": [
+      "nano ingredients",
+      "nanoparticles",
+      "nanocomposites",
+      "nanotechnology in food",
+      "engineered nanomaterials"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "13c0308e-22cc-467e-bc99-494a8029952b",
+    "category_id": "0423f343-3b1f-4aeb-a050-095efedec9d2",
+    "name": "Cleaning and sanitizing agents",
+    "description": "Residues from food processing equipment cleaning",
+    "sources": [
+      "Quaternary ammonium compounds",
+      "Chlorine-based sanitizers",
+      "Peroxide compounds"
+    ],
+    "search_terms": [
+      "sanitizer residues",
+      "cleaning chemical residues",
+      "detergent residues",
+      "QAC residues",
+      "disinfectant residues"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "a3c5afee-4c79-4ed6-ac3e-ba3a415d9d9e",
+    "category_id": "0423f343-3b1f-4aeb-a050-095efedec9d2",
+    "name": "Lubricants",
+    "description": "Substances used in food processing machinery",
+    "sources": [
+      "Machine oils",
+      "Greases",
+      "Release agents"
+    ],
+    "search_terms": [
+      "industrial lubricant contamination",
+      "machine oil residues",
+      "technical oil contamination",
+      "food-grade lubricants"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "8463d4b3-bddd-4cb2-9821-a057f452114c",
+    "category_id": "0423f343-3b1f-4aeb-a050-095efedec9d2",
+    "name": "Airborne contaminants",
+    "description": "Substances from the production environment",
+    "sources": [
+      "Industrial emissions",
+      "Smoke",
+      "Volatile compounds"
+    ],
+    "search_terms": [
+      "factory emissions",
+      "airborne particles",
+      "industrial fallout",
+      "atmospheric contaminants"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "949dc6ca-03f6-4eda-b58b-64c6497d24cd",
+    "category_id": "0423f343-3b1f-4aeb-a050-095efedec9d2",
+    "name": "Combustion byproducts",
+    "description": "Compounds formed during combustion processes near food",
+    "sources": [
+      "Soot particles",
+      "Polycyclic aromatic hydrocarbons from nearby sources"
+    ],
+    "search_terms": [
+      "combustion products",
+      "smoke particles",
+      "industrial exhaust",
+      "burning residues",
+      "soot contamination"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "cb88320c-b5fe-4066-bf70-43257bdbad5d",
+    "category_id": "d5cd246d-5642-4693-b1c6-03896f9e6e09",
+    "name": "Labeling issues",
+    "description": "Problems with product labeling",
+    "sources": [
+      "Missing allergen warnings",
+      "Incorrect nutritional information",
+      "Misleading claims"
+    ],
+    "search_terms": [
+      "mislabeling",
+      "incorrect labeling",
+      "label errors",
+      "missing declarations",
+      "nutrition misinformation"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "2690cf36-55e0-42b2-85a6-3515f07d4158",
+    "category_id": "d5cd246d-5642-4693-b1c6-03896f9e6e09",
+    "name": "Foreign language labeling",
+    "description": "Product information not in required language",
+    "sources": [],
+    "search_terms": [
+      "untranslated labels",
+      "inappropriate language",
+      "non-compliant language",
+      "language requirements"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "ae538b8d-7f70-47ef-9d3a-3aa6832f1b54",
+    "category_id": "d5cd246d-5642-4693-b1c6-03896f9e6e09",
+    "name": "Storage and handling instructions",
+    "description": "Improper or missing instructions",
+    "sources": [],
+    "search_terms": [
+      "handling guidance",
+      "storage directions",
+      "missing instructions",
+      "improper storage advice"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "9682bcd5-1e95-409a-9897-5b27fbde3f52",
+    "category_id": "d5cd246d-5642-4693-b1c6-03896f9e6e09",
+    "name": "Shelf-life concerns",
+    "description": "Inaccurate product durability information",
+    "sources": [
+      "Incorrect use-by dates",
+      "Missing storage requirements"
+    ],
+    "search_terms": [
+      "expiration dates",
+      "best-before dates",
+      "date coding issues",
+      "shelf-life marking",
+      "durability indication"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b60bdc2c-c78f-433e-8b3a-e875886bf5a9",
+    "category_id": "d5cd246d-5642-4693-b1c6-03896f9e6e09",
+    "name": "Packaging integrity",
+    "description": "Compromised packaging that may affect product safety",
+    "sources": [
+      "Damaged seals",
+      "Punctures",
+      "Leaking containers"
+    ],
+    "search_terms": [
+      "broken packaging",
+      "compromised seals",
+      "packaging defects",
+      "leaking packages",
+      "tampered packaging"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "9067dc03-f344-4134-ada5-33e3d3e71afc",
+    "category_id": "bd1c8b28-57ac-4198-a1da-37d7f8b778f2",
+    "name": "Protozoan parasites",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "protozoal infection",
+      "unicellular parasites",
+      "microscopic parasites"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "fa662ca7-3d71-412f-8f9e-e2d015485e3c",
+    "category_id": "bd1c8b28-57ac-4198-a1da-37d7f8b778f2",
+    "name": "Protozoan parasites - Toxoplasma gondii",
+    "description": "",
+    "sources": [
+      "Undercooked meat",
+      "Unwashed vegetables",
+      "Cat feces"
+    ],
+    "search_terms": [
+      "toxoplasmosis",
+      "T. gondii",
+      "toxoplasma infection",
+      "toxoplasma parasite"
+    ],
+    "tags": [
+      "Protozoan parasites"
+    ]
+  },
+  {
+    "hazard_id": "ac1585bc-f0af-41c8-a0bf-1156a23fff61",
+    "category_id": "bd1c8b28-57ac-4198-a1da-37d7f8b778f2",
+    "name": "Protozoan parasites - Cryptosporidium",
+    "description": "",
+    "sources": [
+      "Contaminated water",
+      "Fresh produce",
+      "Unpasteurized milk"
+    ],
+    "search_terms": [
+      "crypto",
+      "cryptosporidiosis",
+      "C. parvum",
+      "cryptosporidium infection"
+    ],
+    "tags": [
+      "Protozoan parasites"
+    ]
+  },
+  {
+    "hazard_id": "e31a38e4-b2f2-4b82-b6ce-5927ee07b1df",
+    "category_id": "bd1c8b28-57ac-4198-a1da-37d7f8b778f2",
+    "name": "Protozoan parasites - Giardia lamblia",
+    "description": "",
+    "sources": [
+      "Contaminated water",
+      "Fresh produce"
+    ],
+    "search_terms": [
+      "giardiasis",
+      "G. intestinalis",
+      "beaver fever",
+      "G. duodenalis"
+    ],
+    "tags": [
+      "Protozoan parasites"
+    ]
+  },
+  {
+    "hazard_id": "6e55dbd1-3916-40f9-b1e4-d001bb7805c5",
+    "category_id": "bd1c8b28-57ac-4198-a1da-37d7f8b778f2",
+    "name": "Protozoan parasites - Cyclospora cayetanensis",
+    "description": "",
+    "sources": [
+      "Imported fresh produce",
+      "Contaminated water"
+    ],
+    "search_terms": [
+      "cyclosporiasis",
+      "C. cayetanensis",
+      "cyclospora infection",
+      "intestinal parasite"
+    ],
+    "tags": [
+      "Protozoan parasites"
+    ]
+  },
+  {
+    "hazard_id": "187813f0-47ad-4271-8a04-c07bee201c4e",
+    "category_id": "bd1c8b28-57ac-4198-a1da-37d7f8b778f2",
+    "name": "Helminths (worms)",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "helminth infection",
+      "worm parasites",
+      "parasitic worms",
+      "helminthiasis"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "fe50d2af-bcdf-4954-92f0-ff4bf1069c46",
+    "category_id": "bd1c8b28-57ac-4198-a1da-37d7f8b778f2",
+    "name": "Helminths (worms) - Trichinella spiralis",
+    "description": "",
+    "sources": [
+      "Undercooked pork",
+      "Wild game meat"
+    ],
+    "search_terms": [
+      "trichinosis",
+      "trichinellosis",
+      "trichina worm",
+      "trichinella infection"
+    ],
+    "tags": [
+      "Helminths (worms)"
+    ]
+  },
+  {
+    "hazard_id": "451d1829-1c34-4dac-933f-dc16c0e9645c",
+    "category_id": "bd1c8b28-57ac-4198-a1da-37d7f8b778f2",
+    "name": "Helminths (worms) - Taenia (tapeworms)",
+    "description": "",
+    "sources": [
+      "Undercooked beef (T. saginata)",
+      "Undercooked pork (T. solium)"
+    ],
+    "search_terms": [
+      "taeniasis",
+      "beef tapeworm",
+      "pork tapeworm",
+      "cestode infection"
+    ],
+    "tags": [
+      "Helminths (worms)"
+    ]
+  },
+  {
+    "hazard_id": "5fe3a69a-bc3e-4f52-be14-2c2e8633cbc1",
+    "category_id": "bd1c8b28-57ac-4198-a1da-37d7f8b778f2",
+    "name": "Helminths (worms) - Anisakis",
+    "description": "",
+    "sources": [
+      "Raw or undercooked fish and seafood"
+    ],
+    "search_terms": [
+      "anisakiasis",
+      "herring worm disease",
+      "fish roundworm",
+      "sushi parasite"
+    ],
+    "tags": [
+      "Helminths (worms)"
+    ]
+  },
+  {
+    "hazard_id": "0eb78354-42fd-49fc-af6b-20cd1ff0ae4a",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Insecticides",
+    "description": "Chemicals used to control insect pests",
+    "sources": [],
+    "search_terms": [
+      "insect killers",
+      "insect control chemicals",
+      "pest control residues"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "d049ac5e-f6dc-4fcc-a8f1-5cc24f6cd482",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Insecticides - Organophosphates",
+    "description": "",
+    "sources": [
+      "Chlorpyrifos",
+      "Malathion",
+      "Diazinon"
+    ],
+    "search_terms": [
+      "OP pesticides",
+      "cholinesterase inhibitors",
+      "organophosphorus insecticides",
+      "phosphate pesticides"
+    ],
+    "tags": [
+      "Insecticides"
+    ]
+  },
+  {
+    "hazard_id": "ad485838-8bb9-4a53-acc6-b24a66aa1e7d",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Insecticides - Neonicotinoids",
+    "description": "",
+    "sources": [
+      "Imidacloprid",
+      "Clothianidin",
+      "Thiamethoxam"
+    ],
+    "search_terms": [
+      "neonic",
+      "neonics",
+      "nicotinoid pesticides",
+      "systemic insecticides",
+      "nicotine-based pesticides"
+    ],
+    "tags": [
+      "Insecticides"
+    ]
+  },
+  {
+    "hazard_id": "69fb818e-7985-4c1d-96aa-0d400f42c189",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Insecticides - Pyrethroids",
+    "description": "",
+    "sources": [
+      "Permethrin",
+      "Cypermethrin",
+      "Deltamethrin"
+    ],
+    "search_terms": [
+      "synthetic pyrethroids",
+      "pyrethroid insecticides",
+      "pyrethrin derivatives",
+      "synthetic pyrethrins"
+    ],
+    "tags": [
+      "Insecticides"
+    ]
+  },
+  {
+    "hazard_id": "ac85287e-c590-4c02-9005-6eb16d361a7b",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Herbicides",
+    "description": "Chemicals used to control weeds",
+    "sources": [],
+    "search_terms": [
+      "weedkillers",
+      "weed control chemicals",
+      "weed control residues"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b4ffd875-38c6-40fe-b5a0-0e0cee367c16",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Herbicides - Glyphosate",
+    "description": "",
+    "sources": [
+      "Residues in grains, legumes, and other crops"
+    ],
+    "search_terms": [
+      "Roundup",
+      "N-phosphonomethyl glycine",
+      "systemic herbicide",
+      "broad-spectrum herbicide"
+    ],
+    "tags": [
+      "Herbicides"
+    ]
+  },
+  {
+    "hazard_id": "390d6e9a-4887-42c7-b028-4920b62f6394",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Herbicides - 2,4-D",
+    "description": "",
+    "sources": [
+      "Cereal crops",
+      "Fruits"
+    ],
+    "search_terms": [
+      "2,4-dichlorophenoxyacetic acid",
+      "phenoxy herbicide",
+      "selective herbicide",
+      "auxin herbicide"
+    ],
+    "tags": [
+      "Herbicides"
+    ]
+  },
+  {
+    "hazard_id": "67cbcb64-486a-4142-a6c5-ceb90b66ca4c",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Herbicides - Atrazine",
+    "description": "",
+    "sources": [
+      "Corn",
+      "Other crops",
+      "Water contamination"
+    ],
+    "search_terms": [
+      "triazine herbicide",
+      "s-triazine",
+      "selective herbicide",
+      "pre-emergence herbicide"
+    ],
+    "tags": [
+      "Herbicides"
+    ]
+  },
+  {
+    "hazard_id": "104dabd9-8821-47fb-8df9-3d3b401efbda",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Fungicides",
+    "description": "Chemicals used to control fungal diseases in crops",
+    "sources": [],
+    "search_terms": [
+      "antifungal chemicals",
+      "fungal control agents",
+      "antifungal residues"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "7b0e33c7-8317-476b-886c-b64ea98c1751",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Fungicides - Azole fungicides",
+    "description": "",
+    "sources": [
+      "Fruits",
+      "Vegetables",
+      "Cereal crops"
+    ],
+    "search_terms": [
+      "triazoles",
+      "imidazoles",
+      "DMI fungicides",
+      "ergosterol inhibitors"
+    ],
+    "tags": [
+      "Fungicides"
+    ]
+  },
+  {
+    "hazard_id": "2532b5ef-7fb5-4222-b808-16344df4825b",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Fungicides - Mancozeb",
+    "description": "",
+    "sources": [
+      "Fruits",
+      "Vegetables"
+    ],
+    "search_terms": [
+      "dithiocarbamate fungicide",
+      "EBDC fungicide",
+      "ethylene bisdithiocarbamate",
+      "protectant fungicide"
+    ],
+    "tags": [
+      "Fungicides"
+    ]
+  },
+  {
+    "hazard_id": "f12ecf0d-b779-47c1-848b-6325b4ac6ac6",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Multiple residues",
+    "description": "Presence of more than one pesticide residue",
+    "sources": [],
+    "search_terms": [
+      "pesticide combinations",
+      "multi-residue",
+      "pesticide cocktail",
+      "co-occurring pesticides",
+      "cumulative residues"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "e576308d-f9b9-41b3-92dc-5c44d9a0b41d",
+    "category_id": "18d1457a-3bdd-4a87-8d08-1c30914a445d",
+    "name": "Unauthorized pesticides",
+    "description": "Pesticide residues from compounds not approved for use",
+    "sources": [],
+    "search_terms": [
+      "illegal pesticides",
+      "banned pesticides",
+      "non-approved pesticides",
+      "prohibited agrochemicals",
+      "unapproved plant protection products"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "8a372c86-7a00-40f5-b86a-5e3b57240406",
+    "category_id": "2f380571-11f6-45ea-b370-fd5f9cd4b318",
+    "name": "Acrylamide",
+    "description": "Forms during high-temperature cooking of carbohydrate-rich foods",
+    "sources": [
+      "Fried potatoes",
+      "Coffee",
+      "Baked goods",
+      "Toasted bread"
+    ],
+    "search_terms": [
+      "acrylamide formation",
+      "Maillard reaction product",
+      "cooking contaminant",
+      "heat-induced compound"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b4992dc4-5565-4239-bc84-d8ed5aeb9320",
+    "category_id": "2f380571-11f6-45ea-b370-fd5f9cd4b318",
+    "name": "Polycyclic aromatic hydrocarbons (PAHs)",
+    "description": "Form during combustion processes and high-temperature cooking",
+    "sources": [
+      "Grilled and smoked foods",
+      "Charred meat",
+      "Smoked fish"
+    ],
+    "search_terms": [
+      "PAHs",
+      "benzo[a]pyrene",
+      "cooking carcinogens",
+      "grilling compounds",
+      "smoke byproducts"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "2b54ecfc-7eb7-4289-80fc-bb6637547851",
+    "category_id": "2f380571-11f6-45ea-b370-fd5f9cd4b318",
+    "name": "Heterocyclic amines (HCAs)",
+    "description": "Form during high-temperature cooking of protein-rich foods",
+    "sources": [
+      "Well-done and charred meat",
+      "Poultry",
+      "Fish"
+    ],
+    "search_terms": [
+      "HCAs",
+      "PhIP",
+      "MeIQx",
+      "cooking mutagens",
+      "grilled meat compounds"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "c6dc3736-7870-4f02-8513-fe96c452d438",
+    "category_id": "2f380571-11f6-45ea-b370-fd5f9cd4b318",
+    "name": "Furan",
+    "description": "Forms during heat treatment processes",
+    "sources": [
+      "Coffee",
+      "Canned and jarred foods",
+      "Baby food"
+    ],
+    "search_terms": [
+      "furan compounds",
+      "heat-induced contaminant",
+      "thermal process contaminant",
+      "volatile compound"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b89b3dc6-cd1f-4fb4-b76e-3612eaf2f55b",
+    "category_id": "2f380571-11f6-45ea-b370-fd5f9cd4b318",
+    "name": "3-MCPD and glycidyl esters",
+    "description": "Form during oil refining processes",
+    "sources": [
+      "Refined vegetable oils",
+      "Infant formula",
+      "Processed foods containing refined oils"
+    ],
+    "search_terms": [
+      "3-monochloropropane-1,2-diol",
+      "3-MCPD fatty acid esters",
+      "glycidol",
+      "oil refining contaminants"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "58016033-f974-4cb4-8da9-e49a18815b6a",
+    "category_id": "2f380571-11f6-45ea-b370-fd5f9cd4b318",
+    "name": "Trans fatty acids",
+    "description": "Form during partial hydrogenation of oils",
+    "sources": [
+      "Partially hydrogenated vegetable oils",
+      "Some processed foods"
+    ],
+    "search_terms": [
+      "trans fats",
+      "hydrogenated fats",
+      "industrial trans fatty acids",
+      "partially hydrogenated oils"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "10dcc0d4-4630-40b4-9041-5b84ab524d45",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Inadequate processing",
+    "description": "Insufficient treatment to ensure food safety",
+    "sources": [],
+    "search_terms": [
+      "undercooking",
+      "insufficient processing",
+      "inadequate heat treatment",
+      "processing failure"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "c5b06771-0fc7-4735-85c8-74d0f7eacd66",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Inadequate processing - Underprocessing",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "insufficient processing",
+      "inadequate treatment",
+      "processing failure",
+      "thermal process deviation"
+    ],
+    "tags": [
+      "Inadequate processing"
+    ]
+  },
+  {
+    "hazard_id": "a4085097-a022-4e27-99cc-a2ecf7bdedec",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Inadequate processing - Insufficient heating",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "inadequate cooking",
+      "undercooking",
+      "thermal processing failure",
+      "insufficient temperature"
+    ],
+    "tags": [
+      "Inadequate processing"
+    ]
+  },
+  {
+    "hazard_id": "8c1deb7d-5787-4715-862d-4742f1c365a8",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Process deviations",
+    "description": "Failures to follow established processing parameters",
+    "sources": [],
+    "search_terms": [
+      "process non-compliance",
+      "parameter deviation",
+      "production error",
+      "process failure"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "952c630f-15cf-4992-8d9f-0847e5515b55",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Process deviations - Temperature abuse",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "temperature control failure",
+      "thermal abuse",
+      "temperature deviation",
+      "improper temperature"
+    ],
+    "tags": [
+      "Process deviations"
+    ]
+  },
+  {
+    "hazard_id": "779953c8-781c-40c9-8b9a-01f1f4b91bbc",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Process deviations - Inadequate acidification",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "pH failure",
+      "incorrect acidification",
+      "insufficient pH lowering",
+      "acidity control failure"
+    ],
+    "tags": [
+      "Process deviations"
+    ]
+  },
+  {
+    "hazard_id": "4cf332a7-bc1b-437f-b67e-f5df22cd0975",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Process deviations - Process control failures",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "HACCP deviation",
+      "critical control point failure",
+      "process parameter failure",
+      "control system error"
+    ],
+    "tags": [
+      "Process deviations"
+    ]
+  },
+  {
+    "hazard_id": "4df594d4-1970-484f-ab4f-08874793a4eb",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Cross-contamination",
+    "description": "Transfer of hazards from one food or surface to another",
+    "sources": [],
+    "search_terms": [
+      "cross-contact",
+      "hazard transfer",
+      "contamination spread",
+      "processing contamination"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "65f4dbe4-de9c-460f-8523-02632ca34721",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Cross-contamination - Allergen cross-contact",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "allergen cross-contamination",
+      "unintentional allergen presence",
+      "allergen transfer",
+      "unintended allergen"
+    ],
+    "tags": [
+      "Cross-contamination"
+    ]
+  },
+  {
+    "hazard_id": "77de48c2-7294-47eb-99ed-ba5e870d3c05",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Cross-contamination - Pathogen transfer",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "microbial cross-contamination",
+      "bacterial transfer",
+      "pathogen spread",
+      "microbial transfer"
+    ],
+    "tags": [
+      "Cross-contamination"
+    ]
+  },
+  {
+    "hazard_id": "b3a19604-c38d-4651-aea2-b7060d1f73ca",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Equipment malfunctions",
+    "description": "Failures in processing equipment that affect food safety",
+    "sources": [
+      "Metal detector failures",
+      "Temperature control issues",
+      "Filter failures"
+    ],
+    "search_terms": [
+      "equipment failure",
+      "machinery malfunction",
+      "processing equipment breakdown",
+      "technical failure"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "d5536639-12ce-4faa-b2d6-0bc8c0d3b731",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Mycotoxins in feed",
+    "description": "Toxins produced by fungi in feed materials",
+    "sources": [],
+    "search_terms": [
+      "feed mycotoxins",
+      "feed mold toxins",
+      "fungal toxins in feed",
+      "animal feed contamination"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "4e65ef31-f587-4e62-acce-385c0ada0125",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Mycotoxins in feed - Aflatoxins",
+    "description": "",
+    "sources": [
+      "Corn",
+      "Peanut meal",
+      "Cottonseed meal"
+    ],
+    "search_terms": [
+      "AFB1",
+      "feed aflatoxin",
+      "Aspergillus toxins",
+      "aflatoxicosis",
+      "carcinogenic mycotoxins"
+    ],
+    "tags": [
+      "Mycotoxins in feed"
+    ]
+  },
+  {
+    "hazard_id": "eb50a43e-6938-44b2-8861-42cffc05cfc2",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Mycotoxins in feed - Deoxynivalenol (DON)",
+    "description": "",
+    "sources": [
+      "Wheat",
+      "Barley",
+      "Corn"
+    ],
+    "search_terms": [
+      "vomitoxin",
+      "trichothecene",
+      "fusarium toxin",
+      "DON mycotoxin"
+    ],
+    "tags": [
+      "Mycotoxins in feed"
+    ]
+  },
+  {
+    "hazard_id": "07ebd380-988a-476e-bcfc-fe569a14e3ea",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Mycotoxins in feed - Zearalenone",
+    "description": "",
+    "sources": [
+      "Corn",
+      "Wheat",
+      "Barley"
+    ],
+    "search_terms": [
+      "ZEA",
+      "ZEN",
+      "F-2 toxin",
+      "estrogenic mycotoxin",
+      "fusarium metabolite"
+    ],
+    "tags": [
+      "Mycotoxins in feed"
+    ]
+  },
+  {
+    "hazard_id": "6486c256-fa93-4633-8267-444461bc8cb6",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Heavy metals in feed",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "feed metal contamination",
+      "toxic metals in feed",
+      "metallic feed contaminants"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "32be1639-907f-4949-b448-97b2d35d8171",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Heavy metals in feed - Arsenic",
+    "description": "",
+    "sources": [
+      "Fish meal",
+      "Mineral supplements"
+    ],
+    "search_terms": [
+      "feed arsenic",
+      "inorganic arsenic",
+      "arsenical compounds in feed",
+      "As contamination"
+    ],
+    "tags": [
+      "Heavy metals in feed"
+    ]
+  },
+  {
+    "hazard_id": "9d958950-69bc-40ff-b98f-4549302265c8",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Heavy metals in feed - Cadmium",
+    "description": "",
+    "sources": [
+      "Phosphate supplements",
+      "Contaminated soil uptake by plants"
+    ],
+    "search_terms": [
+      "feed cadmium",
+      "Cd contamination",
+      "cadmium in animal nutrition",
+      "heavy metal in feed"
+    ],
+    "tags": [
+      "Heavy metals in feed"
+    ]
+  },
+  {
+    "hazard_id": "7ef6bad8-2236-4d9a-a85e-d2abce1634cb",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Heavy metals in feed - Lead",
+    "description": "",
+    "sources": [
+      "Contaminated soil",
+      "Industrial pollution",
+      "Lead paint"
+    ],
+    "search_terms": [
+      "feed lead",
+      "Pb contamination",
+      "lead in animal nutrition",
+      "lead toxicity in feed"
+    ],
+    "tags": [
+      "Heavy metals in feed"
+    ]
+  },
+  {
+    "hazard_id": "4f3e1444-eb9f-4a8c-8919-754678753a4d",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Persistent organic pollutants",
+    "description": "Environmental contaminants that persist and bioaccumulate",
+    "sources": [
+      "Dioxins",
+      "PCBs",
+      "Organochlorine pesticides"
+    ],
+    "search_terms": [
+      "POPs in feed",
+      "persistent pollutants",
+      "dioxins in feed",
+      "PCBs in animal nutrition",
+      "organochlorine contamination"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "2803a828-5dff-4fc0-86dd-0110a43ccd5a",
+    "category_id": "a760ec76-5115-4ddf-bfc8-65001f452f04",
+    "name": "Prohibited animal proteins",
+    "description": "Animal proteins banned in certain animal feeds",
+    "sources": [
+      "Ruminant proteins in ruminant feed (BSE prevention)"
+    ],
+    "search_terms": [
+      "feed ban proteins",
+      "mammalian protein ban",
+      "BSE risk material",
+      "MBM ban",
+      "ruminant feed prohibitions"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "2270dfd0-1ddd-4907-9ce4-4f745fc5ba60",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antibiotics",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "antibiotic residues",
+      "antimicrobial residues",
+      "drug residues in meat",
+      "antibiotic contamination"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "187990b9-9234-4dbe-be84-04c4cbeb7757",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antibiotics - Beta-lactams",
+    "description": "",
+    "sources": [
+      "Penicillin",
+      "Amoxicillin",
+      "Cephalosporins"
+    ],
+    "search_terms": [
+      "penicillin residues",
+      "cephalosporin residues",
+      "beta-lactam antimicrobials",
+      "amoxicillin residues"
+    ],
+    "tags": [
+      "Antibiotics"
+    ]
+  },
+  {
+    "hazard_id": "7f93f64a-2a98-4b17-8169-834431f5c2b9",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antibiotics - Tetracyclines",
+    "description": "",
+    "sources": [
+      "Oxytetracycline",
+      "Chlortetracycline",
+      "Doxycycline"
+    ],
+    "search_terms": [
+      "tetracycline residues",
+      "oxytetracycline residues",
+      "chlortetracycline residues",
+      "tetracyclic antibiotics"
+    ],
+    "tags": [
+      "Antibiotics"
+    ]
+  },
+  {
+    "hazard_id": "1cf2c6c1-b602-42ed-890c-0fe764ec4faf",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antibiotics - Aminoglycosides",
+    "description": "",
+    "sources": [
+      "Gentamicin",
+      "Streptomycin",
+      "Neomycin"
+    ],
+    "search_terms": [
+      "aminoglycoside residues",
+      "streptomycin residues",
+      "gentamicin residues",
+      "neomycin residues"
+    ],
+    "tags": [
+      "Antibiotics"
+    ]
+  },
+  {
+    "hazard_id": "5f853171-0ff8-4695-be57-fbdefa9d4c31",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antibiotics - Sulfonamides",
+    "description": "",
+    "sources": [
+      "Sulfamethazine",
+      "Sulfadimethoxine"
+    ],
+    "search_terms": [
+      "sulfa drugs",
+      "sulfamethazine residues",
+      "sulfonamide antimicrobials",
+      "sulfa residues"
+    ],
+    "tags": [
+      "Antibiotics"
+    ]
+  },
+  {
+    "hazard_id": "e337e83b-83b6-480e-b6c9-08e965c35a13",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antibiotics - Fluoroquinolones",
+    "description": "",
+    "sources": [
+      "Enrofloxacin",
+      "Ciprofloxacin",
+      "Marbofloxacin"
+    ],
+    "search_terms": [
+      "quinolone residues",
+      "enrofloxacin residues",
+      "fluoroquinolone antimicrobials",
+      "cipro residues"
+    ],
+    "tags": [
+      "Antibiotics"
+    ]
+  },
+  {
+    "hazard_id": "7a3837de-de4a-4fae-b0af-ae910eeffc11",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antibiotics - Chloramphenicol",
+    "description": "Broad-spectrum antibiotic banned in food-producing animals in many countries",
+    "sources": [],
+    "search_terms": [
+      "banned antibiotic",
+      "CAP residues",
+      "zero tolerance antibiotic",
+      "prohibited antimicrobial"
+    ],
+    "tags": [
+      "Antibiotics"
+    ]
+  },
+  {
+    "hazard_id": "589960ac-b3d8-4109-be79-85345b6e92a2",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antibiotics - Nitrofurans",
+    "description": "Synthetic antibacterials banned in food-producing animals in many countries",
+    "sources": [],
+    "search_terms": [
+      "furazolidone",
+      "furaltadone",
+      "nitrofurantoin",
+      "prohibited antimicrobials",
+      "nitrofuran metabolites"
+    ],
+    "tags": [
+      "Antibiotics"
+    ]
+  },
+  {
+    "hazard_id": "f815d5bf-f55d-4538-9d93-94e453d06efc",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Hormones",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "growth promoters",
+      "hormone residues",
+      "anabolic steroids",
+      "growth-promoting substances"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "4fcdc24f-1b22-46fa-a5fc-2edd87a6d672",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Hormones - Steroid hormones",
+    "description": "",
+    "sources": [
+      "Estradiol",
+      "Testosterone",
+      "Progesterone"
+    ],
+    "search_terms": [
+      "sex hormone residues",
+      "steroidal compounds",
+      "anabolic steroid residues",
+      "hormonal growth promoters"
+    ],
+    "tags": [
+      "Hormones"
+    ]
+  },
+  {
+    "hazard_id": "1e1242a6-06ea-4b69-9013-35b30ab3bbb8",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Hormones - Beta-agonists",
+    "description": "",
+    "sources": [
+      "Ractopamine",
+      "Clenbuterol",
+      "Zilpaterol"
+    ],
+    "search_terms": [
+      "repartitioning agents",
+      "clenbuterol residues",
+      "ractopamine residues",
+      "lean meat promoters"
+    ],
+    "tags": [
+      "Hormones"
+    ]
+  },
+  {
+    "hazard_id": "950129da-ea46-4187-b722-6176f43f09b3",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antiparasitics",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "parasiticide residues",
+      "antiparasitic drug residues",
+      "anthelminthic residues",
+      "antiprotozoal residues"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "b2d317ff-670f-4e1f-97ff-1de38d538b00",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antiparasitics - Anthelmintics",
+    "description": "",
+    "sources": [
+      "Ivermectin",
+      "Albendazole",
+      "Fenbendazole"
+    ],
+    "search_terms": [
+      "dewormer residues",
+      "ivermectin residues",
+      "benzimidazole residues",
+      "worming medication"
+    ],
+    "tags": [
+      "Antiparasitics"
+    ]
+  },
+  {
+    "hazard_id": "85252859-4532-4f91-8ce7-11427dd67372",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Antiparasitics - Coccidiostats",
+    "description": "",
+    "sources": [
+      "Monensin",
+      "Salinomycin",
+      "Nicarbazin"
+    ],
+    "search_terms": [
+      "anticoccidial residues",
+      "ionophore residues",
+      "monensin residues",
+      "coccidiostat feed additives"
+    ],
+    "tags": [
+      "Antiparasitics"
+    ]
+  },
+  {
+    "hazard_id": "c119f19b-6ad9-431f-a6f7-36cab0e1bf78",
+    "category_id": "9e90855d-adf9-4353-956b-46f9c00e115f",
+    "name": "Anti-inflammatory drugs",
+    "description": "",
+    "sources": [
+      "Phenylbutazone",
+      "Flunixin",
+      "Meloxicam"
+    ],
+    "search_terms": [
+      "NSAID residues",
+      "phenylbutazone residues",
+      "flunixin residues",
+      "anti-inflammatory residues",
+      "pain medication residues"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "c6921e7d-460c-45f1-a112-d62e25f29cfa",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Nutritional additives",
+    "description": "Substances providing nutrients",
+    "sources": [],
+    "search_terms": [
+      "feed nutrients",
+      "feed supplements",
+      "nutritional supplements",
+      "dietary additives"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "2098389c-28b3-40fb-a361-39efda649423",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Nutritional additives - Vitamins",
+    "description": "",
+    "sources": [],
+    "search_terms": [
+      "feed vitamins",
+      "vitamin supplements",
+      "vitamin premixes",
+      "micronutrients"
+    ],
+    "tags": [
+      "Nutritional additives"
+    ]
+  },
+  {
+    "hazard_id": "1f364c5f-15e3-4477-a388-a38fd7ac1e02",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Nutritional additives - Trace minerals",
+    "description": "",
+    "sources": [
+      "Zinc",
+      "Copper",
+      "Selenium"
+    ],
+    "search_terms": [
+      "mineral supplements",
+      "mineral premixes",
+      "trace elements",
+      "microelements",
+      "mineral additives"
+    ],
+    "tags": [
+      "Nutritional additives"
+    ]
+  },
+  {
+    "hazard_id": "59877301-9fe9-4118-bd01-6fb70c094608",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Nutritional additives - Amino acids",
+    "description": "",
+    "sources": [
+      "Lysine",
+      "Methionine",
+      "Threonine"
+    ],
+    "search_terms": [
+      "feed amino acids",
+      "synthetic amino acids",
+      "limiting amino acids",
+      "protein building blocks"
+    ],
+    "tags": [
+      "Nutritional additives"
+    ]
+  },
+  {
+    "hazard_id": "cfa31c65-522a-43b8-aec6-c1e9c7b6ce61",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Zootechnical additives",
+    "description": "Substances affecting animal performance or environmental impact",
+    "sources": [],
+    "search_terms": [
+      "performance enhancers",
+      "digestive aids",
+      "gut health promoters"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "d0b98b56-822b-426a-abe1-37e4f1df56d9",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Zootechnical additives - Digestibility enhancers",
+    "description": "",
+    "sources": [
+      "Enzymes like phytase, xylanase"
+    ],
+    "search_terms": [
+      "feed enzymes",
+      "phytase",
+      "NSP enzymes",
+      "digestive enzymes",
+      "xylanase"
+    ],
+    "tags": [
+      "Zootechnical additives"
+    ]
+  },
+  {
+    "hazard_id": "5b58b561-1620-41ef-8b99-6b0d0e29a05d",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Zootechnical additives - Gut flora stabilizers",
+    "description": "",
+    "sources": [
+      "Probiotics",
+      "Prebiotics"
+    ],
+    "search_terms": [
+      "direct-fed microbials",
+      "probiotic feed additives",
+      "beneficial bacteria",
+      "prebiotic fibers"
+    ],
+    "tags": [
+      "Zootechnical additives"
+    ]
+  },
+  {
+    "hazard_id": "51856df1-81f7-4b0b-ad71-1538d800a0b6",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Sensory additives",
+    "description": "Substances that improve feed palatability",
+    "sources": [
+      "Flavoring compounds",
+      "Sweeteners"
+    ],
+    "search_terms": [
+      "feed flavorings",
+      "palatability enhancers",
+      "feed attractants",
+      "taste improvers"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "21bad297-4ad0-427f-b567-8e0b984fce24",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Technological additives",
+    "description": "Substances used for technological purposes",
+    "sources": [],
+    "search_terms": [
+      "processing aids",
+      "feed technologicals",
+      "feed manufacturing aids"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "9534e72d-c1b6-4697-afef-9049b355957e",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Technological additives - Preservatives",
+    "description": "",
+    "sources": [
+      "Organic acids",
+      "Formaldehyde"
+    ],
+    "search_terms": [
+      "feed preservatives",
+      "mold inhibitors",
+      "propionic acid",
+      "feed conservation agents"
+    ],
+    "tags": [
+      "Technological additives"
+    ]
+  },
+  {
+    "hazard_id": "ccf7b3a8-ace2-4cc1-ba3c-57e574a2b469",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Technological additives - Antioxidants",
+    "description": "",
+    "sources": [
+      "Ethoxyquin",
+      "BHA",
+      "BHT"
+    ],
+    "search_terms": [
+      "oxidation inhibitors",
+      "feed antioxidants",
+      "rancidity preventers",
+      "shelf-life extenders"
+    ],
+    "tags": [
+      "Technological additives"
+    ]
+  },
+  {
+    "hazard_id": "bb02e5ac-bd26-40c8-b7b0-a227a85e7333",
+    "category_id": "47ecc711-9aa3-41b9-94c1-8d5df654506b",
+    "name": "Unauthorized additives",
+    "description": "Substances not approved for use in feed",
+    "sources": [],
+    "search_terms": [
+      "illegal feed additives",
+      "prohibited additives",
+      "unapproved feed substances",
+      "non-authorized additives"
+    ],
+    "tags": []
+  },
+  {
+    "hazard_id": "d4e5f6g7-8901-23hi-4567-890123abcdef",
+    "category_id": "749dfa59-22a2-4d5e-993b-a6cfa2af8e0c",
+    "name": "Allergenic processing aid residues",
+    "description": "Residues from allergen-containing processing aids that remain in final products",
+    "sources": [
+      "Filtration agents",
+      "Clarification aids",
+      "Anti-caking agents",
+      "Vitamin premixes"
+    ],
+    "search_terms": [
+      "non-ingredient allergens",
+      "processing chemical residues",
+      "technical allergen sources",
+      "hidden manufacturing allergens",
+      "carryover contamination"
+    ],
+    "tags": [
+      "non-obvious",
+      "supply chain risk"
+    ]
+  },
+  {
+    "hazard_id": "c3d4e5f6-7890-12gh-3456-789012abcdef",
+    "category_id": "321145c0-a933-4e50-9daf-650484972710",
+    "name": "Incomplete allergen declarations",
+    "description": "Failure to declare potential allergen cross-contact or minor ingredients containing allergens",
+    "sources": [
+      "Ingredient list omissions",
+      "Inadequate 'may contain' statements",
+      "Processing aid residues",
+      "Natural flavor components"
+    ],
+    "search_terms": [
+      "allergen labeling fraud",
+      "undeclared allergens",
+      "hidden allergens",
+      "labeling non-compliance",
+      "FDA allergen violations"
+    ],
+    "tags": [
+      "regulatory risk",
+      "consumer safety"
+    ]
+  },
+  {
+    "hazard_id": "b2c3d4e5-6789-01fg-2345-678901abcdef",
+    "category_id": "35ee4269-4604-466d-a37d-84c12646c169",
+    "name": "Novel plant protein allergens",
+    "description": "Emerging allergic reactions to plant proteins not traditionally considered major allergens",
+    "sources": [
+      "Plant-based products",
+      "Natural flavorings",
+      "Protein isolates",
+      "Meat substitutes"
+    ],
+    "search_terms": [
+      "plant protein allergy",
+      "emerging allergens",
+      "non-traditional allergens",
+      "vegan product reactions",
+      "novel food proteins"
+    ],
+    "tags": [
+      "rising incidence",
+      "labeling gap"
+    ]
+  },
+  {
+    "hazard_id": "a1b2c3d4-5678-90ef-1234-567890abcdef",
+    "category_id": "80704aa5-4a59-4979-8702-40e381d5915d",
+    "name": "Allergen cross-contamination during production",
+    "description": "Undeclared allergens due to shared equipment, improper sanitation, or production scheduling errors",
+    "sources": [
+      "Shared production lines",
+      "Reused processing water",
+      "Residues in equipment",
+      "Bulk ingredient transport",
+      "Re-worked product batches"
+    ],
+    "search_terms": [
+      "allergen cross-contact",
+      "equipment carryover",
+      "production line contamination",
+      "shared facility allergens",
+      "sanitation failure"
+    ],
+    "tags": [
+      "high-risk",
+      "GMP failure"
+    ]
+  },
+  {
+    "hazard_id": "5a7f4d8b-3e2c-4a9f-b0e1-9d3f6b2a1c4e",
+    "category_id": "84d2c7f1-5a3e-4b8c-9d0e-6f3a2b1c8d5e",
+    "name": "Mineral oil hydrocarbons (MOSH/MOAH)",
+    "description": "Migration from recycled cardboard packaging into dry foods",
+    "sources": [
+      "Cereal boxes",
+      "Pasta packaging",
+      "Bakery product wrappers"
+    ],
+    "search_terms": [
+      "MOAH contamination",
+      "packaging oil migration",
+      "recycled fiber risks"
+    ],
+    "tags": [
+      "chronic exposure",
+      "EU regulated"
+    ]
+  },
+  {
+    "hazard_id": "8b2c9d1e-4f3a-4e7d-b0c5-6a1e3f8d2b4c",
+    "category_id": "93e1a4b7-2c8d-4f6e-9a0b-5d7e8f1a2c3d",
+    "name": "Vegan product cross-contact",
+    "description": "Dairy/egg contamination in plant-based products",
+    "sources": [
+      "Shared production lines",
+      "Reused storage containers",
+      "Bulk ingredient handling"
+    ],
+    "search_terms": [
+      "vegan allergen risk",
+      "plant-based contamination",
+      "dairy-free fraud"
+    ],
+    "tags": [
+      "high-risk",
+      "labeling"
+    ]
+  },
+  {
+    "hazard_id": "3e6f8a2d-1b4c-4e9f-a0d7-5b2c8f3e1d6a",
+    "category_id": "a5b6c7d8-e9f0-4a1b-8c2d-3e4f5a6b7c8d",
+    "name": "Cultured meat cell abnormalities",
+    "description": "Unintended cell mutations in lab-grown protein products",
+    "sources": [
+      "Cell-cultured meat",
+      "Scaffolding materials",
+      "Growth media residues"
+    ],
+    "search_terms": [
+      "cultured protein risks",
+      "cell line stability",
+      "in vitro meat safety"
+    ],
+    "tags": [
+      "emerging tech",
+      "biotech"
+    ]
+  },
+  {
+    "hazard_id": "2a5c8e3d-1f4b-4e9a-a0d7-6b3f2c8e1d4f",
+    "category_id": "5aaed28e-0b09-4221-8c6a-f827002863c3",
+    "name": "Industrial dyes in spices",
+    "description": "Addition of non-food colorants to enhance appearance",
+    "sources": [
+      "Chili powder",
+      "Turmeric",
+      "Paprika"
+    ],
+    "search_terms": [
+      "Sudan dye",
+      "textile dyes in food",
+      "colorant fraud"
+    ],
+    "tags": [
+      "economic fraud",
+      "carcinogenic"
+    ]
+  },
+  {
+    "hazard_id": "9e3f6d2a-1b4c-4e8f-a0d7-5c2b8f3e1d6a",
+    "category_id": "c7d8e9f0-1a2b-4c3d-8e5f-6a7b8c9d0e1f",
+    "name": "Thermal process contaminants",
+    "description": "Harmful compounds formed during high-temperature cooking",
+    "sources": [
+      "Grilled meats",
+      "Roasted coffee",
+      "Baked snacks"
+    ],
+    "search_terms": [
+      "acrylamide",
+      "furans",
+      "heat-induced toxins"
+    ],
+    "tags": [
+      "carcinogens",
+      "cooking methods"
+    ]
+  }
+]
